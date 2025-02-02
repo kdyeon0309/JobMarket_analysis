@@ -1,5 +1,5 @@
-﻿,title,location,Main_task,qualifications,Preferred_Qualifications,skils,url
-0,"딥러닝/머신러닝(AI) 개발자 [신입, 전문연구요원(보충역/전직) 가능",경기 성남시,"• 생체 신호 기반 딥러닝/머신러닝 모델 개발
+﻿title,location,Main_task,qualifications,Preferred_Qualifications,skils,url
+"딥러닝/머신러닝(AI) 개발자 [신입, 전문연구요원(보충역/전직) 가능",경기 성남시,"• 생체 신호 기반 딥러닝/머신러닝 모델 개발
 • 내부 토론식 세미나를 통해 문제점 및 해결방안 도출
 • 데이터 전처리, 통계 기반 데이터 분석","* 지원 시 포트폴리오 제출 필수 (연구 자료, 논문 자료 등)
 • 딥러닝/머신러닝에 대한 개념적인 이해 및 모델링 경험
@@ -12,7 +12,7 @@
 • 통계학과, 응용수학과, 산업공학, 전자공학, 컴퓨터공학 등 관련 분야 전공자
 • 딥러닝 논문을 코드로 구현하고 실험/분석 역량 보유자
 • 의료, 보건 헬스케어 관련 기초 지식 보유 또는 관련 프로젝트 경험자","['Git', 'Android', 'iOS', 'MySQL', 'Pytorch', 'React', 'Tensorflow', 'HTML', 'Java', 'JavaScript', 'Kotlin', 'Python', 'Swift', '딥 러닝', 'AWS']",https://www.wanted.co.kr/wd/188191
-1,AI Engineer (병특 전문연구요원가능),서울 종로구,"[기술스택]
+AI Engineer (병특 전문연구요원가능),서울 종로구,"[기술스택]
 -Language - Python
 -Framework - Pytorch, Tensorflow, Keras, onnx, Langchain, Langgraph
 -Infra - AWS, GCP, Kubernetes, Docker, Github
@@ -29,7 +29,7 @@
 -AI / ML 을 활용한 서비스 구축 및 운영 경험
 -AI / ML / 데이터사이언스 분야 석,박사 학위자 또는 그에 준하는 경력자
 -비지니스 레벨의 일본어, 영어 구사가 가능한 분","['Github', 'Pytorch', 'Tensorflow', 'Python', 'AWS', 'Docker', 'Kubernetes']",https://www.wanted.co.kr/wd/255120
-2,[이미지/비디오 생성형 AI] Research Engineer (전문연구요원),서울 강남구,"• 비디오 생성 모델 개발 (video generation / frame interpolation)
+[이미지/비디오 생성형 AI] Research Engineer (전문연구요원),서울 강남구,"• 비디오 생성 모델 개발 (video generation / frame interpolation)
 • 모델 경량화 및 인퍼런스 가속화
 • 대규모 데이터셋 수집, 정제, 평가","• 컴퓨터 공학, 전산학 또는 관련 분야 석사 이상 학위 소지자
 • AI 및 머신러닝 관련 프로젝트 경험
@@ -37,14 +37,14 @@
 • 대규모 데이터셋 처리 및 분석 경험
 • 논문 작성 및 발표 경험
 • 팀 협업 및 커뮤니케이션 능력",[],https://www.wanted.co.kr/wd/263463
-3,Research Scientist,서울 강남구,"SwiftMR 제품 코드 중 모델 알고리즘 파트 코드 관리
+Research Scientist,서울 강남구,"SwiftMR 제품 코드 중 모델 알고리즘 파트 코드 관리
 SwiftMR Research팀 최전선에서 실제 고객에게 제품의 형태로 배포될 python 코드 유지 보수 및 업데이트
 세계 각지 고객 요청에 대응해 샘플 다이콤 영상 제품 모델 처리 및 결과물 소통","업무 맥락 파악 및 소통 능력 (예외 상황 발생 시 빠른 대처 및 투명한 소통, 담당 업무의 필요성에 대한 깊은 이해)
 업무 완성도에 대한 높은 기준 (마감 시간 및 꼼꼼함)
 수학적 사고력 (수식으로 된 코드를 읽고 이해할 수 있는 능력)","Python 코드 관리 경험
 수학과 친하신 분
 의료 AI분야에 관심이 있으신 분",['Python'],https://www.wanted.co.kr/wd/258011
-4,전문연구요원_AI 개발자 (병역 특례),경기 성남시,"• 크라우드 펀딩 플랫폼을 위한 다양한 서비스에 적용되는 AI모델 설계
+전문연구요원_AI 개발자 (병역 특례),경기 성남시,"• 크라우드 펀딩 플랫폼을 위한 다양한 서비스에 적용되는 AI모델 설계
 • 서비스 데이터를 기반으로 자동화 파이프라인 설계 및 개발
 • Endpoint API 개발 및 서비스 적용 및 개선","• 공학 석사 이상의 학위를 소지하고 계신 분
 • ai 를 활용한 실험 논문을 소지하고 계신 분
@@ -54,7 +54,7 @@ SwiftMR Research팀 최전선에서 실제 고객에게 제품의 형태로 배�
 • SQL 과 Python 사용이 능숙하신 분","• AWS 의 Serverless (람다) 혹은 k8s 환경에서의 서비스 오픈 경험
 • Snowflake 등 빅데이터의 추출과 전처리를 활용하여 데이터 분석과 개선방향에 대한 리포트 경험
 • 오픈소스 LLM 모델 개발 경험","['Python', 'SQL']",https://www.wanted.co.kr/wd/263224
-5,Operation / Digital Consultant,서울 강남구,"[Job Description]
+Operation / Digital Consultant,서울 강남구,"[Job Description]
 
 • 데이터 분석가와 Business 컨설턴트로 이루어진 팀 단위 프로젝트 수행
 • 고객/매출 및 제조/공정 등 고객사 현황 분석을 통한 인사이트 도출 및 문제정의
@@ -68,7 +68,7 @@ SwiftMR Research팀 최전선에서 실제 고객에게 제품의 형태로 배�
 • 지방 및 해외 출장 가능한 분","• 제조업 및 SCM 오퍼레이션 관련 경험/ 이해 역량 보유한 분
 • 통계, ML/DL 이해 및 모델 설계 경험
 • Microsoft office 활용 역량 보유한 분","['MySQL', 'Python', 'SQL', 'AWS']",https://www.wanted.co.kr/wd/178246
-6,"ML engineer/ AI researcher (전문연구요원 - 보충역, 전직자)",서울 강남구,"• AI 팀, 제품 개발팀 및 외부 연구 기관과 협력하여 최신 머신러닝 모델을 개발하고, 모델 학습 및 성능 평가를 담당합니다.
+"ML engineer/ AI researcher (전문연구요원 - 보충역, 전직자)",서울 강남구,"• AI 팀, 제품 개발팀 및 외부 연구 기관과 협력하여 최신 머신러닝 모델을 개발하고, 모델 학습 및 성능 평가를 담당합니다.
 • 반도체 전문가들과 긴밀히 협력하여 혁신적인 단위공정 모델링 도구를 개발하고, 현장의 피드백을 적극 반영합니다.
 • 단위공정 모델링은 아직 AI 도입이 활발하지 않은 분야입니다. 모델링 목표 수립부터 설계, 개발까지 전 과정을 주도적으로 이끌면서 새로운 영역을 개척해 나갈 수 있는 좋은 기회입니다","• 컴퓨터 공학 석사 학위, 관련 기술 분야 학위 또는 그에 준하는 실무 경험
 • Python을 중심으로 한 탄탄한 프로그래밍 실력
@@ -87,7 +87,7 @@ SwiftMR Research팀 최전선에서 실제 고객에게 제품의 형태로 배�
 [포트폴리오]
 • 형식: pdf, github 등 자유형식
 • 필수요소: 본인이 참여한 주요 프로젝트들의 목록/기간, 사용 플랫폼과 언어, 핵심 아이디어 요약, 구체적인 역할과 기여 명시","['Github', 'Python', 'AWS']",https://www.wanted.co.kr/wd/262796
-7,ML engineer/ AI researcher (Junior),서울 강남구,"• AI 팀, 제품 개발팀 및 외부 연구 기관과 협력하여 최신 머신러닝 모델을 개발하고, 모델 학습 및 성능 평가를 담당합니다.
+ML engineer/ AI researcher (Junior),서울 강남구,"• AI 팀, 제품 개발팀 및 외부 연구 기관과 협력하여 최신 머신러닝 모델을 개발하고, 모델 학습 및 성능 평가를 담당합니다.
 • 반도체 전문가들과 긴밀히 협력하여 혁신적인 단위공정 모델링 도구를 개발하고, 현장의 피드백을 적극 반영합니다.
 • 단위공정 모델링은 아직 AI 도입이 활발하지 않은 분야입니다. 모델링 목표 수립부터 설계, 개발까지 전 과정을 주도적으로 이끌면서 새로운 영역을 개척해 나갈 수 있는 좋은 기회입니다","• 컴퓨터 공학 석사 학위, 관련 기술 분야 학위 또는 그에 준하는 실무 경험
 • Python을 중심으로 한 탄탄한 프로그래밍 실력
@@ -106,7 +106,7 @@ SwiftMR Research팀 최전선에서 실제 고객에게 제품의 형태로 배�
 [포트폴리오]
 • 형식: pdf, github 등 자유형식
 • 필수요소: 본인이 참여한 주요 프로젝트들의 목록/기간, 사용 플랫폼과 언어, 핵심 아이디어 요약, 구체적인 역할과 기여 명시","['Github', 'Python', 'AWS']",https://www.wanted.co.kr/wd/262798
-8,딥러닝 연구원 / 엔지니어 (전문연구요원 가능),서울 강남구,"1.딥러닝 모델 연구 개발
+딥러닝 연구원 / 엔지니어 (전문연구요원 가능),서울 강남구,"1.딥러닝 모델 연구 개발
 - 얼굴 및 몸 영상 생성 및 합성 (2D 또는 3D)
 - 음성 합성 (TTS) 및 음성 변환 (VST)
 - 딥페이크 탐지 (영상 및 음성)
@@ -115,7 +115,7 @@ SwiftMR Research팀 최전선에서 실제 고객에게 제품의 형태로 배�
 3.딥러닝 모델 최적화 및 서버 개발 (MLOps)","관련 분야 전공자 및 경력자
 관련 알고리듬 및 라이브러리 전문가
 석사 이상 학위 소지자 (전문연구요원)","관련 분야 성과 (논문, 특허, 서비스 출시 등)",[],https://www.wanted.co.kr/wd/251783
-9,[AI연구소] AI연구원 - Computer Vision AI,서울 구로구,"• 컴퓨터 비전 관련 연구 및 모델 개발
+[AI연구소] AI연구원 - Computer Vision AI,서울 구로구,"• 컴퓨터 비전 관련 연구 및 모델 개발
 • 영상 처리 알고리즘 개발
 • 관련 학회 논문 제출 및 특허 작성","• AI 관련 분야 석사 학위 이상
 • Pytorch, Tensorflow등 주요 Deep Learning framework 활용 능력
@@ -125,7 +125,7 @@ SwiftMR Research팀 최전선에서 실제 고객에게 제품의 형태로 배�
 • VLM(Vision Language Model) 개발 경험
 • 국제/국내 인공지능 대회 수상 이력
 • 주요 학술대회에 논문 게재 이력","['Linux', 'Pytorch', 'Tensorflow', 'Shell', 'Docker']",https://www.wanted.co.kr/wd/236095
-10,신약개발 특허분석 인공지능 연구원,인천 연수구,"• 특허 문서 수집(Crawling)
+신약개발 특허분석 인공지능 연구원,인천 연수구,"• 특허 문서 수집(Crawling)
 • 특허 DB 구축(SQL)
 • 특허분석 모델 개발(OCR)
 • 특허성 판단 모델 개발
@@ -139,7 +139,7 @@ SwiftMR Research팀 최전선에서 실제 고객에게 제품의 형태로 배�
 • 자격요건을 미충족할 경우 훌륭한 동기와 실력","• Top Tier 논문
 • 추천서
 • 신약개발 관련 경력",[],https://www.wanted.co.kr/wd/258119
-11,Computer Vision AI Engineer_Junior,서울 서초구,"• 컴퓨터 비전 기반 무인매장(아마존 ""Grab and Go""와 유사)용, 컴퓨터 비전 딥러닝 모델
+Computer Vision AI Engineer_Junior,서울 서초구,"• 컴퓨터 비전 기반 무인매장(아마존 ""Grab and Go""와 유사)용, 컴퓨터 비전 딥러닝 모델
 (Object Detection, Pose Estimation 등) 개발, 최적화, 상용화
 • 사업 도메인에 특화된 문제를 해결하기 위한 특화된 모델 개발
 • 딥러닝 모델 설계를 통한 성능/정확도 개선 및 튜닝을 통한 추론 효율성 증대
@@ -150,7 +150,7 @@ SwiftMR Research팀 최전선에서 실제 고객에게 제품의 형태로 배�
 • 논리적인 사고","• 관련 경험 2년 이상
 • 관련 전공 석사 이상
 • 뛰어난 커뮤니케이션",[],https://www.wanted.co.kr/wd/235822
-12,Prompt Engineer,서울 종로구,"• 프롬프트 최적화를 통한 AI 모델 성능 향상
+Prompt Engineer,서울 종로구,"• 프롬프트 최적화를 통한 AI 모델 성능 향상
 • 다양한 사용 사례에 적합한 프롬프트 설계 및 테스트
 • 최신 AI 트렌드 및 기술 연구","• 프롬프트 설계 및 AI 활용 경험
 • NLP 및 머신러닝 기본 지식
@@ -162,7 +162,7 @@ SwiftMR Research팀 최전선에서 실제 고객에게 제품의 형태로 배�
 • A/B 테스트 설계 및 결과 분석 경험
 • 클라우드 기반 AI 서비스(AWS SageMaker, GCP AI 등) 활용 경험
 • 스타트업 또는 AI 관련 프로젝트 참여 경험",[],https://www.wanted.co.kr/wd/261241
-13,인공지능 음성 합성(TTS) 전문가,서울 송파구,"• 다국어/다감정/다화자/소용량 TTS 모델 개발 및 성능개선
+인공지능 음성 합성(TTS) 전문가,서울 송파구,"• 다국어/다감정/다화자/소용량 TTS 모델 개발 및 성능개선
 • ONNX/TensorRT를 이용한 인퍼런스 고속화 엔진 개발","• 딥러닝 기술에 대한 학습/추론에 대한 깊은 이해
 • Python/PyTorch에 대한 높은 숙련도
 • 최신 음성 합성 모델에 대한 깊은 이해, 개발 경험, 전문성
@@ -170,7 +170,7 @@ SwiftMR Research팀 최전선에서 실제 고객에게 제품의 형태로 배�
 • TensorRT를 활용한 모델 고속화 구현 능력
 • ONNX를 활용한 C++ 기반 딥러닝 서빙 엔진 개발 경험","• 딥러닝기반 인공지능 관련 분야의 석사 학위 이상
 • 딥러닝기반 음성합성 모델 및 엔진의 상용화 경험",[],https://www.wanted.co.kr/wd/261542
-14,"Physical AI Research Scientist (강화학습, 시뮬레이션)",서울 금천구,"[인터엑스가 찾는 인재]
+"Physical AI Research Scientist (강화학습, 시뮬레이션)",서울 금천구,"[인터엑스가 찾는 인재]
 
 자신의 전문성을 바탕으로 꾸준히 학습하고 활용하면서 그 분야 고수로 인정받는 사람
 이러한 능력을 바탕으로 미래의 새로운 가치를 만드는 사람
@@ -223,22 +223,7 @@ Python, PyTorch 경험이 있으신 분","[우대사항]
 강화학습/시뮬레이션 전공 박사 학위를 보유하신 분
 로봇, 설비 자율운전을 위한 강화학습/시뮬레이션 경험이 있으신 분
 AI, Robotics 관련 Top SCI급 저널 기고, 특허 보유하신 분",['Python'],https://www.wanted.co.kr/wd/261251
-15,AI Research Engineer & AI consultant,서울 성동구,"＜AI Research Engineer＞
-• 다양한 문서형태에서의 정보 추출을 위한 레이아웃을 분석하고 연구합니다.
-• 오픈소스 LLM 모델 파인튜닝 및 RAG 고도화 연구를 진행합니다.
-• Agent, 멀티모달 기반 RAG 등의 연구를 진행합니다.
-
-＜AI consultant＞
-• 고객사 RAG 시스템 구현을 위한 요구사항 분석, 도메인 문서 분석 및 전처리 등의 컨설팅을 수행합니다.
-• 고객의 다양한 요구 사항에 대해 AI 컨설팅을 수행하고 딥러닝 기술을 활용하여 AI Pilot 모델을 개발합니다.","• 학력 : 4년제 이상 / 관련 학과 졸업
-• 경력 : 경력무관 (경력자 우대)
-• Python, PyTorch, TensorFlow 등의 프레임워크 사용 능력이 있으셔야 합니다.","• 논문을 기반으로 한 이론으로부터 실전 적용으로의 전환이 능숙한 분 우대합니다.
-• 최신 LLM 모델을 사용하거나 공부한 경험이 있으신 분 우대합니다.
-• 딥러닝 기반 NLP 나 컴퓨터비전 제품 개발 경험이 있으신 분 우대합니다.
-• AI 관련 경진대회 수상 실적 또는 논문 작성 경험이 있으신 분 우대합니다.
-• LLM 모델을 서빙하거나 파인튜닝 해보신 분 우대합니다.
-• MLOps 의 파이프라인 개발에 경험이 있으신 분 우대합니다.",[],https://www.wanted.co.kr/wd/261150
-16,[인턴] AI Team,서울 강남구,"• AI 모델링 및 개발
+[인턴] AI Team,서울 강남구,"• AI 모델링 및 개발
 • 데이터 수집 및 전처리
 • 모델 성능 평가 및 개선
 • 관련 기술 조사 및 적용","• AI 관련 학부/대학원 전공하고 계시거나 이수하신 분
@@ -247,10 +232,10 @@ AI, Robotics 관련 Top SCI급 저널 기고, 특허 보유하신 분",['Python'
 • NLP 모델 학습 경험이 있으신 분","• 딥러닝 모델링 경험이 있는 분
 • AI 분야의 다양한 경험 (자연어처리, 이미지, 음성)을 가진 분
 • AI 주제의 논문을 작성해보신 분",['ML'],https://www.wanted.co.kr/wd/168348
-17,NPU RTL 설계 엔지니어 (전문연구요원/신입),서울 강남구,"• NPU Architecture 설계
+NPU RTL 설계 엔지니어 (전문연구요원/신입),서울 강남구,"• NPU Architecture 설계
 • NPU Core HW RTL Coding, Verification",• Verilog HDL 설계 경험,"• 딥러닝 알고리즘 이해
 • CPU Architecture, GPU Architecture 이해",['Verilog'],https://www.wanted.co.kr/wd/259898
-18,AI Engineer(LLM),서울 마포구,"• word embedding, text clustering 등 NLP 기술을 이용한 텍스트 데이터 전처리
+AI Engineer(LLM),서울 마포구,"• word embedding, text clustering 등 NLP 기술을 이용한 텍스트 데이터 전처리
 • text chunking , semantic matching 등을 활용한 문서 탐색 시스템 구조화
 • vector DB를 활용한 문석 검색 시스템 최적화
 • Retriever, Reader 등 유사 문서 검색 알고리즘 최적화
@@ -279,7 +264,7 @@ AI, Robotics 관련 Top SCI급 저널 기고, 특허 보유하신 분",['Python'
 - 웹서비스에 대한 이해
 - 팀단위 프로젝트에 참여하여 원활한 협업으로 프로젝트 완료에 기여한 경험
 - 프로젝트 리딩 경험","['Git', 'Github', 'Linux', 'MySQL', 'Pytorch', 'Tensorflow', 'Python', 'AWS', 'Go', 'Docker', 'Ubuntu', 'Notion', 'FastAPI']",https://www.wanted.co.kr/wd/219083
-19,[전문연구요원] Computer Vision Engineer,경기 수원시,"• Vision 관련 딥러닝 모델과 서비스의 운용을 위한 파이프라인 개발
+[전문연구요원] Computer Vision Engineer,경기 수원시,"• Vision 관련 딥러닝 모델과 서비스의 운용을 위한 파이프라인 개발
 • 솔루션 형태의 다양한 Vision AI 제품 개발 및 관리
 • 카메라 하드웨어와 연동된 프로젝트 진행","• C++/C# Solution 개발 경험
 • 석사 이상 (2년 차 이상)
@@ -293,7 +278,7 @@ AI, Robotics 관련 Top SCI급 저널 기고, 특허 보유하신 분",['Python'
 - Anomaly Classification / Segmentation
 • C++ 기반 프로젝트 경험
 • 카메라 하드웨어 관련 활용 경험","['C#', 'Python', 'C++']",https://www.wanted.co.kr/wd/259584
-20,연구소 회로설계 및 HW 개발,경기 화성시,"• Analog/Digital 회로 설계(OPAMP, DAC, ADC)
+연구소 회로설계 및 HW 개발,경기 화성시,"• Analog/Digital 회로 설계(OPAMP, DAC, ADC)
 • H/W 성능 및 시험 검증
 • 개발단계 부품 발주 및 관리","• 학력 : 초대졸이상
 • 경력 : 0 ~ 7년
@@ -304,7 +289,7 @@ AI, Robotics 관련 Top SCI급 저널 기고, 특허 보유하신 분",['Python'
 • 근무 요일/시간 : 주5일(월~금) | 09:00 ~ 18:00","• 디스플레이 검사장비(OLED, Micro-LED) 개발 경험자
 • 반도체 계측장비 회로개발 경험자
 • FPGA 설계 경험자",[],https://www.wanted.co.kr/wd/241168
-21,AI 엔지니어(NLP/LLM),서울 송파구,"• LLM 모델 커스터마이징을 위한 대규모 데이터 관리(전처리, 후처리)
+AI 엔지니어(NLP/LLM),서울 송파구,"• LLM 모델 커스터마이징을 위한 대규모 데이터 관리(전처리, 후처리)
 • LLM 모델 학습 과정 및 결과에 대한 정량적 분석
 • LLM 모델 서비스를 위한 프롬프트 엔지니어링 및 RAG 연구","• 최신 NLP (특히 LLM) 모델을 사용하거나 공부한 경험이 있으신 분
 • NLP Production 개발 경험이 있으신 분
@@ -317,14 +302,14 @@ AI, Robotics 관련 Top SCI급 저널 기고, 특허 보유하신 분",['Python'
 • 대규모 언어 모델(예: GPT, BERT 등) 연구 및 개발 경험.
 • 적극적이고 진취적인 태도
 • 최신 기술 동향에 대한 지속적인 학습 및 적용 의지",[],https://www.wanted.co.kr/wd/259565
-22,인공지능(AI) 개발자,서울 중구,"• 대규모 데이터 처리 및 AI 모델 학습
+인공지능(AI) 개발자,서울 중구,"• 대규모 데이터 처리 및 AI 모델 학습
 • AI 기술을 활용한 서비스 자동화 및 비용절감
 • 딥러닝, 머신러닝 알고리즘을 활용한 서비스 고도화","• 항공/여행 산업에 대한 이해 및 관심
 • AI 모델의 실서비스 적용 및 운영 경험
 • 추천 시스템, 예측 모델 또는 자연어 처리(NLP) 프로젝트 경험","• AI 모델의 실서비스 적용 및 운영 경험
 • 추천 시스템, 예측 모델 또는 자연어 처리(NLP) 프로젝트 경험
 • 항공/여행 산업에 대한 이해 및 관심",['Python'],https://www.wanted.co.kr/wd/257537
-23,SW개발 AI 개발자,경기 수원시,"ㆍAP, GPS, 비콘 및 사내그룹웨어 데이터 기반 동선추적으로 자동 근태를 측정할 수 있는 AI프로세스 정립
+SW개발 AI 개발자,경기 수원시,"ㆍAP, GPS, 비콘 및 사내그룹웨어 데이터 기반 동선추적으로 자동 근태를 측정할 수 있는 AI프로세스 정립
 ㆍ사고예방 시스템 AI학습을 위한 데이터 수집방법 및 Schema 정의
 ㆍ위치기반 알림전송, 산업현장에서의 위험구역 자동설정 AI개발
 ㆍAI 학습 모델 개발 및 개선
@@ -340,7 +325,7 @@ AI, Robotics 관련 Top SCI급 저널 기고, 특허 보유하신 분",['Python'
 ㆍ관련직종 5년이상 근무하신 분
 ㆍ영상/이미지 처리가 가능하신 분
 ㆍ정부과제 수행경험이 있으신분",[],https://www.wanted.co.kr/wd/257108
-24,AI 엔지니어 (Stable diffusion / VITON),서울 강남구,"연구목표
+AI 엔지니어 (Stable diffusion / VITON),서울 강남구,"연구목표
 • Stable diffusion 및 VITON 모델을 활용하여 사진 -＞ 내옷 복원, 내옷 -＞ 내가 입은 모습을 효과적으로 재현할 수 있는 기술 개발 (기존 모델 차용, 자체 모델링, 자체 학습 등 필요한 모든 것 수행)
 • 실제 에이클로젯 서비스에 탑재하기 위한 시스템 기술 및 인프라 개발
 • 최적화된 성능을 보장하기 위한 전후처리 기술 개발 및 이에 필요한 이미지/언어 딥러닝 모델 개발 및 도입
@@ -362,7 +347,7 @@ AI, Robotics 관련 Top SCI급 저널 기고, 특허 보유하신 분",['Python'
 현재 사용하는 기술/환경
 • Pytorch, Python, Github, MLFlow, Opencv, AWS, GCP, Docker
 • Notion, Slack, Jira",[],https://www.wanted.co.kr/wd/256995
-25,딥러닝 엔지니어,서울 강남구,"연구목표
+딥러닝 엔지니어,서울 강남구,"연구목표
 • Stable diffusion 및 VITON 모델을 활용하여 사진 -＞ 내옷 복원, 내옷 -＞ 내가 입은 모습을 효과적으로 재현할 수 있는 기술 개발 (기존 모델 차용, 자체 모델링, 자체 학습 등 필요한 모든 것 수행)
 • 실제 에이클로젯 서비스에 탑재하기 위한 시스템 기술 및 인프라 개발
 • 최적화된 성능을 보장하기 위한 전후처리 기술 개발 및 이에 필요한 이미지/언어 딥러닝 모델 개발 및 도입
@@ -384,7 +369,7 @@ AI, Robotics 관련 Top SCI급 저널 기고, 특허 보유하신 분",['Python'
 현재 사용하는 기술/환경
 • Pytorch, Python, Github, MLFlow, Opencv, AWS, GCP, Docker
 • Notion, Slack, Jira","['Github', 'Pytorch', 'Python', 'AWS', 'Docker']",https://www.wanted.co.kr/wd/170201
-26,머신러닝 엔지니어,서울 강남구,"• 광범위한 의료 데이터를 기반으로 대규모 ML 모델을 설계, 학습, 튜닝 및 배포합니다.
+머신러닝 엔지니어,서울 강남구,"• 광범위한 의료 데이터를 기반으로 대규모 ML 모델을 설계, 학습, 튜닝 및 배포합니다.
 • 최신 MLOps 프레임워크와 도구를 활용하여 production 환경에서의 모델 성능을 모니터링하고 개선합니다.
 • 데이터 사이언티스트 및 의료 전문가와 협력하여 모델의 정확성과 효율성을 최적화하고 제품의 가치를 극대화합니다.
 • 데이터 엔지니어와 긴밀히 협력하여 체계적이고 자동화된 ML 학습, 검증, 및 배포 프로세스를 구축합니다.","• Python 및 ML Framework (Tensorflow, PyTorch, Lightning, etc.) 숙련도
@@ -396,7 +381,7 @@ AI, Robotics 관련 Top SCI급 저널 기고, 특허 보유하신 분",['Python'
 • 소프트웨어 컨테이너화 및 오케스트레이션을 위한 Docker/Docker Compose 경험
 • 의료/헬스케어 데이터 관련 경험
 • AI 관련 분야 논문 출판 기록 또는 학술적 성과",[],https://www.wanted.co.kr/wd/245705
-27,딥러닝/머신러닝 분야 연구원 (인공지능 개발자),서울 강남구,"ㆍ영상 기반 AI / ML 기법 개발
+딥러닝/머신러닝 분야 연구원 (인공지능 개발자),서울 강남구,"ㆍ영상 기반 AI / ML 기법 개발
 - WSI-classification
 - Segmentation
 - Detection
@@ -413,7 +398,7 @@ AI, Robotics 관련 Top SCI급 저널 기고, 특허 보유하신 분",['Python'
 ㆍ최신 Open-Source 활용 능력
 ㆍWhole slide image processing 경험
 - 병리 image 기반 segmentation & detection & classification 경험 우대","['Git', 'Github', 'Linux', 'Pytorch', 'C / C++', 'Python', 'Docker', 'Ubuntu', 'OpenCV']",https://www.wanted.co.kr/wd/255043
-28,CAD Engineer - 전문연구요원 가능,서울 강남구,"• 수학적/기하학적 알고리즘 설계 및 구현
+CAD Engineer - 전문연구요원 가능,서울 강남구,"• 수학적/기하학적 알고리즘 설계 및 구현
 • 3D 모델링 및 시뮬레이션 알고리즘 개발
 • 성능 최적화를 위한 효율적인 알고리즘 설계
 • 다양한 CAD 시스템 요구 사항에 맞춰 모듈 및 기능 개발
@@ -437,7 +422,7 @@ AI, Robotics 관련 Top SCI급 저널 기고, 특허 보유하신 분",['Python'
 • 3D CAD 또는 그래픽스 관련 S/W 제품 개발 경험
 • 딥러닝 활용 S/W 개발 경험
 • 의료 데이터 처리 경험","['OpenGL', 'TypeScript', 'Scripting', 'C++']",https://www.wanted.co.kr/wd/226137
-29,AI엔지니어,경기 성남시,"[주요 업무]
+AI엔지니어,경기 성남시,"[주요 업무]
 • 문서 인식 분야 AI 모델 개발
 • 최신 AI 기술 및 연구 동향 파악 및 도입
 • 데이터 분석 및 모델 검증을 통한 성능 향상 및 최적화
@@ -465,7 +450,7 @@ Linux
 Docker
 Anaconda
 Git","['Git', 'Linux', 'Pytorch', 'Python', 'Docker', 'PostgreSQL', 'FastAPI']",https://www.wanted.co.kr/wd/254963
-30,AI 최적화 Researcher,서울 강남구,"• 에너자이의 추론 엔진 Optimium은 크게 ""Graph Level"", ""Kernel level"", ""Runtime level"" 로 구분됩니다.
+AI 최적화 Researcher,서울 강남구,"• 에너자이의 추론 엔진 Optimium은 크게 ""Graph Level"", ""Kernel level"", ""Runtime level"" 로 구분됩니다.
 • 해당 직군은 ""Graph Level""에서의 연구 개발을 맡아 수행하실 분을 찾고 있습니다. ""Graph Level""에서의 연구 개발은 아래 내용을 포함합니다.
 
 • AI 추론 엔진 딥러닝 모델 최적화 알고리즘 개발
@@ -490,7 +475,7 @@ Git","['Git', 'Linux', 'Pytorch', 'Python', 'Docker', 'PostgreSQL', 'FastAPI']",
 • 딥러닝 모델 경량화 및 추론 가속화 기법에 관한 경험이 있으신 분
 • 관련 학회 및 저널 게재 경력자
 • 관련 전공 석사, 박사 학위 보유 시 경력 인정","['Pytorch', 'Python', 'C', '개발', 'C++', 'CCTV', '인공 지능']",https://www.wanted.co.kr/wd/219652
-31,(전문연구요원 가능) ML Engineer/Researcher,서울 강남구,"• Computer Vision 알고리즘 개발
+(전문연구요원 가능) ML Engineer/Researcher,서울 강남구,"• Computer Vision 알고리즘 개발
 -다양한 형태의 데이터 처리 (Radar, Smartphone Image, CCTV Image, Industrial Image 등)
 - Vision 관련 task 수행 (super resolution, detection, inpainting, low lighting 등)
 • 딥러닝 모델 경량화 알고리즘 개발
@@ -506,7 +491,7 @@ Git","['Git', 'Linux', 'Pytorch', 'Python', 'Docker', 'PostgreSQL', 'FastAPI']",
 • 병역특례 지원 가능
 - 산업기능요원, 전문연구요원 지원 가능하며, 이력서에 별도 표기하여 제출 부탁드립니다.
 - (Ex: 산업기능요원 현역, 전문연구요원 편입 등)","['Pytorch', 'Python', 'C', '개발', 'C++', 'CCTV', '인공 지능']",https://www.wanted.co.kr/wd/110126
-32,(전문연구요원 가능) AI 컴파일러 엔지니어,서울 강남구,"[공통]
+(전문연구요원 가능) AI 컴파일러 엔지니어,서울 강남구,"[공통]
 AI compiler 개발
 • Virtual Machine 개발
 • 사내 자체 언어 개발
@@ -533,7 +518,7 @@ AI compiler 개발
 • 딥러닝 모델 경량화 기법에 관한 지식이 있으신 분
 • 관련 학회 및 저널 게재 경력자
 • 관련 전공 석사, 박사 학위 보유 시 경력 인정","['Pytorch', 'Python', 'C', '개발', 'C++', 'CCTV', '인공 지능']",https://www.wanted.co.kr/wd/110132
-33,AI engineer (prompt engineer),서울 관악구,"사업체를 위해 고객 상담 맞춤 AI를 자동 생성해주는 B2B SaaS를 개발합니다.
+AI engineer (prompt engineer),서울 관악구,"사업체를 위해 고객 상담 맞춤 AI를 자동 생성해주는 B2B SaaS를 개발합니다.
 https://docenty.ai 를 2023년 12월 출시했습니다.
 국내 최고 수준 성장 속도
 •
@@ -571,7 +556,7 @@ b. tech position 실무 면접의 경우, live coding, system architecture desig
 아이디어 출처
 * ""스스로의 힘으로 높은 수준의 허들을 넘어 온 사람, 남들이 정해 놓은 선을 넘어 결과를 만들어 온 사람"" - https://ko.antler.co/ 2024년 데모데이 행사
 ** ""용병 아닌 선교사를 채용하라"" - https://vimeo.com/731186065 , Jeff Bezos at Amazon","['Github', 'MongoDB', 'Python', 'GCP', 'React.js']",https://www.wanted.co.kr/wd/218810
-34,LLM Researcher,서울 강남구,"• LLM post training을 위한 데이터 수집 및 정제
+LLM Researcher,서울 강남구,"• LLM post training을 위한 데이터 수집 및 정제
 • LLM Post train 방법론 연구 및 개발
 • LLM serving 환경 구축 및 실험
 • Generative AI 신규 기술 Research","• Python 등 프로그래밍 언어 경험
@@ -582,7 +567,7 @@ b. tech position 실무 면접의 경우, live coding, system architecture desig
 • LLM Post-training을 위한 데이터 수집, 정제, 및 데이터 구축 경험
 • Docker 수행 능력
 • CVPR, ICCV, ECCV, NeurIPS, AAAI, IEEE, EMNLP 등 저널/학회 논문 저자 또는 참여","['Git', 'Linux', 'Pytorch', 'Tensorflow', 'Python', 'Docker']",https://www.wanted.co.kr/wd/253458
-35,Document AI Researcher,서울 강남구,"• 비구조 데이터 문서 처리 솔루션 내 신규 모델 개발
+Document AI Researcher,서울 강남구,"• 비구조 데이터 문서 처리 솔루션 내 신규 모델 개발
 • OCR 및 CV, NLP 등 기 개발 모델 유지 보수 및 고도화
 • Document AI 관련 신규 기술 research","• Python 등 프로그래밍 언어 경험
 • Tensorflow, PyTorch 등 Machine Learning Framework 활용 경험
@@ -591,7 +576,7 @@ b. tech position 실무 면접의 경우, live coding, system architecture desig
 • 훌륭한 의사 소통 능력","• 관련 분야(수학, 통계, 컴퓨터 공학 등) 석사 이상 전공자
 • Document AI를 위한 데이터 수집, 정제, 및 데이터 구축 경험
 • CVPR, ICCV, ECCV, NeurIPS, AAAI, IEEE, EMNLP 등 저널/학회 논문 저자 또는 참여","['Git', 'Linux', 'Pytorch', 'Tensorflow', 'Python', 'Docker', 'OpenCV']",https://www.wanted.co.kr/wd/253469
-36,Generative AI 및 인공지능 유지 관리 연구,서울 강남구,"1. 물류 및 공장자동화 각 사이트에서 필요한 학습 데이터 생성 기법 연구 개발
+Generative AI 및 인공지능 유지 관리 연구,서울 강남구,"1. 물류 및 공장자동화 각 사이트에서 필요한 학습 데이터 생성 기법 연구 개발
 2. 배포된 AI 모델 성능 유지를 위한 평가 및 추가 학습 등을 위한 데이터 생성 기법 연구 개발
 3. 모델 학습 배포 유지관리 lifecycle 연구개발( AIops , Active learning, lifelong learning, etc ) 협업
 4. 그 외, Stable Diffusion과 같은 생성형 모델을 목적에 맞게 연구 개발 및 서비스","• 경력 : 무관
@@ -603,14 +588,14 @@ b. tech position 실무 면접의 경우, live coding, system architecture desig
 • Git을 활용한 코드 협업 경험이 있으신 분
 • 팀원 및 타 분야의 실무자와 원활한 커뮤니케이션 및 의사결정이 가능하신 분
 • Object detection, Segmentation 등 인지모델에 대한 관련 지식 혹은 업무 경험이 있는 분","['Git', 'Linux', 'Python']",https://www.wanted.co.kr/wd/253434
-37,"2D/3D Detection, Vision Inspection Engineer",서울 강남구,"1. 객체 검출을 위한 2D/3D Detection
+"2D/3D Detection, Vision Inspection Engineer",서울 강남구,"1. 객체 검출을 위한 2D/3D Detection
 2. 비전 검사를 위한 학습 기반의 불량 검출 기법 또는 Anomaly Detection","• 경력: 경력 무관
 • Python/C++을 사용한 컴퓨터 비전 알고리즘 개발 경험자
 • Pytorch와 같은 프레임워크를 사용한 다양한 2D/3D Detection 모델 학습 및 개발 경험자","• Point Cloud 데이터를 사용하는 인공지능 모델 개발 및 알고리즘 개발 경험자
 • 3D Depth 센서 사용 경험 및 이를 활용한 개발 경험자
 • 멀티 카메라 또는 멀티 센서 캘리브레이션 개발 경험자
 • 비전 검사를 위한 알고리즘 개발 및 장비 운영 경험자","['Python', 'C++']",https://www.wanted.co.kr/wd/253422
-38,AI Engineer,서울 강남구,"• Stable Diffusion 모델 기반의 이미지 생성형 AI 시스템 개발 및 최적화
+AI Engineer,서울 강남구,"• Stable Diffusion 모델 기반의 이미지 생성형 AI 시스템 개발 및 최적화
 • B2B 엔터프라이즈를 대상으로 한 모델 파인튜닝, 커스터마이징
 • AI 모델의 성능 분석 및 개선
 • 최신 AI 기술 연구 및 빠른 적용","[Education]
@@ -630,7 +615,7 @@ b. tech position 실무 면접의 경우, live coding, system architecture desig
 • LLM(대규모 언어 모델) 활용 경험
 • 연구 결과를 효과적으로 문서화하고 공유할 수 있는 능력
 • 창의적인 접근을 통해 문제를 해결할 수 있는 분","['Git', 'Python', 'AWS']",https://www.wanted.co.kr/wd/249770
-39,머신러닝 엔지니어,서울 용산구,"• 실제 유저들의 행동 모델과 제품 분석을 위한 머신러닝, 데이터 마이닝 알고리즘 개발
+머신러닝 엔지니어,서울 용산구,"• 실제 유저들의 행동 모델과 제품 분석을 위한 머신러닝, 데이터 마이닝 알고리즘 개발
 • 유저 이벤트 시계열 데이터, 정제되지 않은 텍스트 데이터, 서로 상이한 데이터 셋을 활용한 패턴 분석 알고리즘 개발
 • AWS 클라우드의 분산 처리 시스템을 활용한 자동화 시스템 개발
 • 다양한 엔지니어링 팀과의 협업을 통한 서비스 개발","• AI / 머신러닝 관련 논문을 검색 및 이해하고 코드에 적용 가능하신 분
@@ -640,7 +625,7 @@ b. tech position 실무 면접의 경우, live coding, system architecture desig
 • 머신러닝을 인공지능, 데이터 마이닝을 활용해 실제 비즈니스 문제를 해결해 본 경험
 • AWS 활용 능력
 • Spark, Hadoop 활용한 분산처리 시스템 구축 경험",[],https://www.wanted.co.kr/wd/244779
-40,AI 엔지니어 (NLP),인천 미추홀구,"• 에세이 자동 채점 모델 성능 고도화 및 서비스화
+AI 엔지니어 (NLP),인천 미추홀구,"• 에세이 자동 채점 모델 성능 고도화 및 서비스화
 • 최신 AI 모델 및 논문 분석과 구현
 • GPU를 활용한 LLM 학습 및 Troubleshooting
 • 모델 최적화 및 지표 분석","• 모델 학습을 위한 학습 파이프라인 구축 경험
@@ -656,14 +641,14 @@ b. tech position 실무 면접의 경우, live coding, system architecture desig
 • 대규모 언어 모델 개발 및 운영 경험
 • Pre-training, Fine-tuning, RLHF를 포함한 LLM 학습 알고리즘 개발
 • 분산처리를 통한 대규모 언어모델 학습 경험","['Git', 'Github', 'Linux', 'MySQL', 'Python', 'SQL', 'NLP', 'AWS', 'Docker', 'ML']",https://www.wanted.co.kr/wd/250399
-41,코덱SW엔지니어 (알고리즘개발/신입),서울 강남구,"[이런분과 함께하고 싶어요]
+코덱SW엔지니어 (알고리즘개발/신입),서울 강남구,"[이런분과 함께하고 싶어요]
 • 영상처리, 동영상 압축 등 멀티미디어 처리 기술개발","[이런분이라면 더욱 환영해요]
 • 전자, 컴퓨터공학 학사 이상
 • C/C++ 능숙
 • 비디오 압축 혹은 영상 처리에 관심이 있으신 분","[더 몰입하실 수 있도록 도와드려요]
 • 비디오 압축 혹은 영상 처리 관련 연구 수행 및 프로젝트 경험자
 • 리눅스 환경에서 개발 가능","['Linux', 'Java', 'Python', 'C', 'C++']",https://www.wanted.co.kr/wd/174088
-42,코덱SW엔지니어 (화질분석/신입),서울 강남구,"[다음 업무를 통해 목표를 달성하고 성장합니다]
+코덱SW엔지니어 (화질분석/신입),서울 강남구,"[다음 업무를 통해 목표를 달성하고 성장합니다]
 • 영상처리, 동영상 압축 알고리즘 및 성능 분석","[이런분과 함께하고 싶어요]
 • 전자, 컴퓨터공학 학사 이상
 • C, Python 프로그래밍 능력
@@ -672,43 +657,14 @@ b. tech position 실무 면접의 경우, live coding, system architecture desig
 자격 요건 중에 한 두가지 부족하지만, 노력으로 충분히 캐치업할 수 있는 자신이 있다면 망설이지 말고 지원해주세요!","[이런분이라면 더욱 환영해요]
 • 비디오 압축 혹은 영상 처리 관련 연구 수행 및 프로젝트 경험자
 • 리눅스 환경에서 개발 가능","['Linux', 'Java', 'Python', 'C', 'C++']",https://www.wanted.co.kr/wd/174091
-43,LLM 인공지능 개발자,서울 강남구,"타겟 유저 & 마켓
-• 미국과 한국의 ETF, 주식 검색을 하려는 개인투자자(Individual investors)
-• 첫번째 고객은 미국인으로 미국에서 먼저 출시
-
-
-Business Model
-• Robinhood, Charles Schwab, 삼성증권 같은 B2C brokers에게 판매
-
-
-성장전략
-• ETF, 주식 검색 분야는 niche한 분야이지만 고객니즈가 확실히 있는 영역
-• 오랜 시간을 걸려서 거대한 서비스를 만드는게 아니라 짧은 시간에 ETF, 주식 분야에서 chatGPT 수준의 높은 완성도를 갖는 상용화 서비스를 출시하여 ETF, 주식 검색에서 1위 서비스 되기
-• 그 다음 Bloomberg, Refinitiv 같은 글로벌 데이터 서비스의 영역으로 확장하여 성장
-
-
-지원해 드릴 리소스
-• LG전자 CTO상 수상 등 S급 백엔드 & 네트워크 아키텍트(architect)의 서포트
-• A급 프론트 & 백엔드 개발자로부터 개발 서포트
-• UIUX 구현을 위한 디자이너 서포트
-• 개발에 필요한 기타 사항
-
-
-현재 개발상황
-• 기초적인 LLM 기반 ‘ETF 검색 서비스’ 개발하여 알파 버전 제작 완료","자격사항
-• 머신러닝, 딥러닝, 자연어 처리, LLM에 대한 깊은 이해 및 구현 역량
-• LLM을 활용한 AI 서비스 전반에 대한 이해도(Prompt Engineering, Embedding, RAG, LLM, Fine-Tuning)
-• 주식/ETF를 단 1회라도 직접 매매해 본 경험","우대사항
-• 머신러닝/LLM을 활용한 서비스 개발 및 운영 경험
-• LLM Fine-Tuning 경험","['MATLAB', 'Pytorch', 'Tensorflow', 'Python', 'NumPy', 'SciPy']",https://www.wanted.co.kr/wd/248955
-44,[AI반도체] Deep Learning Optimization Engineer,서울 강남구,"- Quantization, Pruning 등 딥러닝 모델 경량화 연구 및 적용
+[AI반도체] Deep Learning Optimization Engineer,서울 강남구,"- Quantization, Pruning 등 딥러닝 모델 경량화 연구 및 적용
 - HW 최적화를 고려한 딥러닝 모델 아키텍쳐 설계 및 학습
 - 딥러닝 최신 연구 동향 분석","- 딥러닝 프레임워크(PyTorch, TensorFlow 등) 활용 능력
 - 프로그래밍 언어(Python, C/C++ 등) 활용 능력
 - 수리적, 논리적 분석을 통한 문제 해결 능력","- 경량화 및 딥러닝 모델, 학습 개발 경험 및 논문 실적이 있으신 분
 - 수학적 사고와 통계, 최적화 등 각종 수학 이론에 대한 이해가 높으신 분
-- NPU 또는 GPU에 대한 이해도가 높으신 분","['Git', 'Pytorch', 'Tensorflow', 'Perl', 'Python', '딥 러닝', 'C', 'C++', '운영체제', '펌웨어', 'FPGA', 'SoC', '컴퓨터 비전', 'Verilog', 'TCL']",https://www.wanted.co.kr/wd/147525
-45,[AI반도체] NPU Compiler Engineer (전문연구요원 가능),서울 강남구,"- 딥러닝 네트워크 모델을 모빌린트 NPU에서 수행할 수 있는 언어로 변환하는 Backend Compiler 개발
+- NPU 또는 GPU에 대한 이해도가 높으신 분","['Git', 'Pytorch', 'Tensorflow', 'Perl', 'Python', '딥 러닝', 'C', 'C++', '운영체제', '펌웨어', 'FPGA', 'SoC', '컴퓨터 비전', 'Verilog', 'TCL', 'STP', 'Xilinx', 'RTL 설계', 'RTL 코딩']",https://www.wanted.co.kr/wd/147525
+[AI반도체] NPU Compiler Engineer (전문연구요원 가능),서울 강남구,"- 딥러닝 네트워크 모델을 모빌린트 NPU에서 수행할 수 있는 언어로 변환하는 Backend Compiler 개발
 - 학습된 딥러닝 모델을 최적화를 통해 모빌린트 NPU 상에서 추론 속도를 향상시켜 딥러닝 서비스 개선에 도움을 주는 모델 최적화 엔진 개발
 - 딥러닝 네트워크 모델 연산 최적화를 위한 Simulator 등 검증용 프로그램 개발","- Math, CS, EE 학위 소유자, 또는 이와 비슷한 경력을 가지신 분
 - 프로그래밍 언어(Python, C/C++ 등) 활용이 능숙하신 분
@@ -718,8 +674,8 @@ Business Model
 - 2년 이상의 딥러닝 분야 연구 경력을 가지신 분, 또는 관련 분야 논문 실적이 있으신 분
 - 임베디드 시스템 환경에서의 딥러닝 알고리즘 개발 경험을 가지신 분
 - 딥러닝 컴파일러와 관련된 연구 및 개발 경험을 가지신 분
-- 프로그래밍 언어(Python, C/C++ 등) 활용이 능숙하신 분","['Git', 'Pytorch', 'Tensorflow', 'Perl', 'Python', '딥 러닝', 'C', 'C++', '운영체제', '펌웨어', 'FPGA', 'SoC', '컴퓨터 비전', 'Verilog', 'TCL']",https://www.wanted.co.kr/wd/117659
-46,AI 엔지니어,서울 강남구,"• 새로운 머신러닝 및 딥러닝 알고리즘을 연구 및 개발합니다.
+- 프로그래밍 언어(Python, C/C++ 등) 활용이 능숙하신 분","['Git', 'Pytorch', 'Tensorflow', 'Perl', 'Python', '딥 러닝', 'C', 'C++', '운영체제', '펌웨어', 'FPGA', 'SoC', '컴퓨터 비전', 'Verilog', 'TCL', 'STP', 'Xilinx', 'RTL 설계', 'RTL 코딩']",https://www.wanted.co.kr/wd/117659
+AI 엔지니어,서울 강남구,"• 새로운 머신러닝 및 딥러닝 알고리즘을 연구 및 개발합니다.
 • Open Source 기반의 SOTA 모델을 플랫폼에 적용하고 성능을 높입니다.
 • 자체 플랫폼 데이터를 기반으로 knowledge tracing, code generation, copy detection 등의 알고리즘을 개발 및 플랫폼에 적용합니다.
 • LLM 및 SLM 기반의 특정한 지식이나 태스크에 최적화된 dialogue systems를 개발합니다.
@@ -734,7 +690,7 @@ Business Model
 • LLM의 개발 경험
 • TTS, STT, 지식 트레이닝, Safe AI, 음성 인식/평가 등 다양한 AI 연구 또는 개발 경험
 • 교육 분야에 대한 열정과 관심을 가진 분","['Python', 'NLP']",https://www.wanted.co.kr/wd/198065
-47,AI개발 엔지니어,서울 성동구,"• AI 모델 개발 및 연구 (딥러닝, 머신러닝, 자연어 처리 등)
+AI개발 엔지니어,서울 성동구,"• AI 모델 개발 및 연구 (딥러닝, 머신러닝, 자연어 처리 등)
 • 데이터 분석 및 처리, 모델 학습을 위한 데이터 파이프라인 구축
 • AI 솔루션 최적화 및 배포
 • AI 관련 신기술 탐구 및 적용
@@ -747,7 +703,7 @@ Business Model
 • 관련계열 석,박사 학위 및 자격증 보유자
 • 로봇 관련 프로젝트 유경험자(과제, 졸업 작품 포함)
 • 창의적이고, 협업을 즐기며 함께 발전하기를 원하시는 분",[],https://www.wanted.co.kr/wd/245139
-48,Robot Vision 개발자 (병역특례 가능),서울 송파구,"• 3차원 공간데이터 수집기 개발 (LiDAR/Radar/Camera)
+Robot Vision 개발자 (병역특례 가능),서울 송파구,"• 3차원 공간데이터 수집기 개발 (LiDAR/Radar/Camera)
 • 딥러닝 기반 3차원 데이터 모델링 (3D Object Detection/Semantic Segmentation/Depth Completion/Depth Estimation/SLAM etc.)
 • 실 산업현장에서의 인공지능 기반 자동화 솔루션 개발","• Python, C/C++ 언어 중 1개 이상에 능숙한 자
 • Pytorch/Tensorflow/Caffe 중 2개 이상의 프레임워크에 능숙한 자
@@ -761,7 +717,7 @@ Business Model
 • ROS 시스템을 사용하여 멀티센서 수집 시스템을 구축해 본 경험이 있는 자
 • 유창한 영어 회화 역량을 보유한 자
 • Frontend/Backend 등 관련된 기술이 있는 자",[],https://www.wanted.co.kr/wd/245573
-49,Localization Engineer (Junior),서울 영등포구,"- 자율주행 차량을 위한 측위 (localization) 및 지도제작 (mapping) 알고리즘 개발
+Localization Engineer (Junior),서울 영등포구,"- 자율주행 차량을 위한 측위 (localization) 및 지도제작 (mapping) 알고리즘 개발
 - 측위와 지도제작 알고리즘 개발 이전에 필요한 calibration과 같은 센서 시스템 관련 개발
 - DevOps, Perception, Planning 등 다른 분야의 엔지니어들과의 협업","**아래의 모든 자격요건들을 갖추신 분**
 
@@ -777,12 +733,12 @@ Business Model
 - CUDA 프로그래밍 등 최적화 지식이나 경험이 있는 분
 - LiDAR, Camera, IMU 등 다양한 센서를 사용한 경험이 있는 분
 - 알려지지 않은 문제를 찾아서 해결하는 과정 전체를 주도적으로 이끌 수 있는 분",[],https://www.wanted.co.kr/wd/239419
-50,AI Engineer,서울 중구,"• 주어진 비즈니스 문제를 가장 효과적으로 해결할 수 있는 AI 기술을 탐색합니다.
+AI Engineer,서울 중구,"• 주어진 비즈니스 문제를 가장 효과적으로 해결할 수 있는 AI 기술을 탐색합니다.
 • 최신 ML/DL 기술을 follow-up 하고 우리 팀의 문제해결에 도움을 줄 수 있는지 검토합니다.
 • 개발한 ML/DL 모델을 학습하고 정확하게 평가합니다.
 • Data Engineer, SW Engineer와 협업하여 모델을 배포하고 평가합니다.","• PyTorch를 활용한 딥러닝 모델 구현 경험이 있고, 최신 딥러닝 논문을 빠르게 이해하고 정확히 구현할 수 있는 분
 • AI 관련 분야 전반, 머신러닝, 딥러닝 이론에 대한 전반적인 이해가 있는 분","• 국제학술지,학술대회에 1저자로 논문 게재 경험이 있는 분",[],https://www.wanted.co.kr/wd/241585
-51,병역특례 전문연구요원 (석사 이상),서울 동작구,"• 오픈 소스 AI 모델을 활용한 고객 가치 창출
+병역특례 전문연구요원 (석사 이상),서울 동작구,"• 오픈 소스 AI 모델을 활용한 고객 가치 창출
 • AI 배포 및 모니터링 (Docker, Kubernetes 등 활용)
 • 협동지능 (AI Agent Collaborative Intelligence) 활용","• Python을 이용한 개발이 능숙하신 분
 • Tensorflow / Pytorch 등 딥러닝 프레임워크에 익숙하신 분
@@ -792,7 +748,7 @@ Business Model
 • 새로운 연구 혹은 개발 방향성을 제시할 수 있는 능력을 갖추신 분","• 대규모 상용 ML(ex. CV, OCR, NLP, RecSys 등) 제품 개발 경험이 있으신 분
 • 대규모 요청에 대한 아키텍처 설계 및 성능 튜닝 경험을 보유하신 분
 • 대형 모델을 배포 및 유지 보수 해본 경험이 있으신 분","['Github', 'iOS', 'Python', 'Docker']",https://www.wanted.co.kr/wd/240343
-52,신입 Software Engineer (Data),서울 강남구,"클럼엘의 신입 데이터 소프트웨어 엔지니어는 시니어가 디자인한 모듈의 일부를 구현하게 됩니다. GitHub의 issue로 구현할 작업이 기술되어 있고, 이 issue가 여러분에게 할당됩니다. 시니어나 혹은 동료들과 소통을 통해서 궁금한 사항을 확인하고 나면 코드를 만듭니다. 코드 작성 완료 후 시니어나 동료들이 코드를 리뷰하고 의견을 줍니다. 이 과정을 반복하는 과정에서 해당 모듈 책임자가 적절한 시점에 코드를 승인합니다. 작성된 코드가 원하는 데이터 분석 결과를 내는지 검증 과정이 매우 중요합니다. 회사가 사용하는 데이터를 기본으로 하고, 필요 시 추가 데이터를 확보합니다. 이 과정은 지원 부서의 도움을 받게 됩니다. 데이터를 작성 코드로 분석한 결과가 적절한지 다양한 데이터 분석 기법을 활용하여 판단합니다. 결과에 따라 추가적인 코드 수정 의견을 제시한다면 더욱 좋습니다.
+신입 Software Engineer (Data),서울 강남구,"클럼엘의 신입 데이터 소프트웨어 엔지니어는 시니어가 디자인한 모듈의 일부를 구현하게 됩니다. GitHub의 issue로 구현할 작업이 기술되어 있고, 이 issue가 여러분에게 할당됩니다. 시니어나 혹은 동료들과 소통을 통해서 궁금한 사항을 확인하고 나면 코드를 만듭니다. 코드 작성 완료 후 시니어나 동료들이 코드를 리뷰하고 의견을 줍니다. 이 과정을 반복하는 과정에서 해당 모듈 책임자가 적절한 시점에 코드를 승인합니다. 작성된 코드가 원하는 데이터 분석 결과를 내는지 검증 과정이 매우 중요합니다. 회사가 사용하는 데이터를 기본으로 하고, 필요 시 추가 데이터를 확보합니다. 이 과정은 지원 부서의 도움을 받게 됩니다. 데이터를 작성 코드로 분석한 결과가 적절한지 다양한 데이터 분석 기법을 활용하여 판단합니다. 결과에 따라 추가적인 코드 수정 의견을 제시한다면 더욱 좋습니다.
 
 
 데이터 소프트웨어 엔지니어의 업무 목록입니다.
@@ -867,7 +823,7 @@ Business Model
 • 머신러닝 데이터 분석 경험이 있으신 분
 • 클라우드 환경에서 업무 경험이 있으신 분
 • 컴퓨터 공학 및 유관학과 학사 이상의 학위를 소지하신 분",[],https://www.wanted.co.kr/wd/239469
-53,"Research Scientist, AI for Neuroimaging(전문연가능)",서울 서초구,"[Snapshot]
+"Research Scientist, AI for Neuroimaging(전문연가능)",서울 서초구,"[Snapshot]
 Research scientists of the BRAIN (Brain Research & AI for Neuroimaging) team study, as expected, how artificial intelligence can resolve unmet needs in neuroimaging analysis at clinical setting. We are also interested in using our solution to understand the mechanism of neurodegenerative diseases better.
 
 [About us]
@@ -898,7 +854,7 @@ In order to set you up for success as an AI Research Scientist at VUNO BRAIN Tea
 • Experience in neuroimaging data (sMRI, fMRI, PET) preprocessing and reconstruction with neuroimaging libraries, such as FreeSurfer, FSL, Nibabel.
 • Familiarity with Git, Docker, AimStack, MLflow, or other software development practices and MLOps engineering.
 • Experience in biostatistics and involvement in clinical trials.",[],https://www.wanted.co.kr/wd/239104
-54,머신러닝 R&D 엔지니어,서울 관악구,"• 머신러닝 연구개발
+머신러닝 R&D 엔지니어,서울 관악구,"• 머신러닝 연구개발
 • Computer vision applications
 • NLP/LLM applications","• Python, Pytorch경험자
 • 머신러닝, 딥러닝 관련 연구/개발 경험","• 전문연구요원 지원 우대
@@ -906,7 +862,7 @@ In order to set you up for success as an AI Research Scientist at VUNO BRAIN Tea
 • AI 최적화, 경량화 유경험
 • 딥러닝 최적화 (Tensor RT, CUDA, C++ 등)
 • AI systems SW 개발 (UI 등)",[],https://www.wanted.co.kr/wd/236695
-55,Deep Learning Engineer,서울 강남구,"- On-device AI를 위한 AI Task 개발
+Deep Learning Engineer,서울 강남구,"- On-device AI를 위한 AI Task 개발
 - On-device AI Framework (ZETIC.MLange) 개발
 - AI application을 위한 pipeline 구축","- 관련 분야의 학사 학위 이상을 보유하신 분 또는 연구/개발 경험이 있는 학생
 - Python 등 능숙한 프로그래밍 스킬
@@ -914,7 +870,7 @@ In order to set you up for success as an AI Research Scientist at VUNO BRAIN Tea
 - Computer Vision, NLP 등 AI를 이용한 응용분야에 관심이 많으신 분
 - On-device AI에 관심이 많으신 분","- C++ 프로그래밍 스킬 보유
 - AI Application 개발 경험","['C / C++', 'Python', 'C++']",https://www.wanted.co.kr/wd/234409
-56,[전문연구요원 가능] 인공지능 연구원 (신입),서울 종로구,"• 의료용 내시경 영상 분석을 위한 딥러닝 모델 설계 및 개발
+[전문연구요원 가능] 인공지능 연구원 (신입),서울 종로구,"• 의료용 내시경 영상 분석을 위한 딥러닝 모델 설계 및 개발
 • 전동식 내시경 자율제어를 위한 딥러닝 모델 설계 및 개발","• Deep Learning framework (PyTorch, TensorFlow 2.0+, TensorRT 등) 에 대한 구현 경험
 • 최신 Deep Learning 논문을 이해하고 구현할 수 있는 역량
 • Linux 기반 C/C++, Python Programming 경험
@@ -924,11 +880,11 @@ In order to set you up for success as an AI Research Scientist at VUNO BRAIN Tea
 • 의료영상 및 자율제어 관련 Deep Learning 연구 개발 경험
 • 관련 분야 주요 학회 (ICCV, CVPR, ICLR, ICML, ECCV 등) 발표 및 주요 학술지 논문 게재 경험
 • 관련 분야 대회 입상 경험","['Github', 'Slack', 'Linux', 'Scikit-Learn', 'C / C++', 'Python', 'C', 'C++', 'Ubuntu', 'CUDA', 'NumPy', 'Notion']",https://www.wanted.co.kr/wd/147486
-57,인공지능 전문가,경기 용인시,"• 비침습 혈당측정을 위한 딥러닝 알고리즘 개발
+인공지능 전문가,경기 용인시,"• 비침습 혈당측정을 위한 딥러닝 알고리즘 개발
 • 센서 신호 데이터의 전처리","• 성별, 나이 무관
 • 인공지능 분야 대학원 전공 또는 인공지능 분야 경력자
 • 엔지니어, 리더, C-level 모두 채용 고려",• 인공지능 개발팀을 리딩할 수 있는 역량과 경험을 갖춘 분,"['Github', 'Pytorch', 'Tensorflow', 'Python']",https://www.wanted.co.kr/wd/221103
-58,AI 최적화 엔지니어,서울 관악구,"- AI NPU/GPU 최적화 개발
+AI 최적화 엔지니어,서울 관악구,"- AI NPU/GPU 최적화 개발
 - AI Model quantization/pruning tool 개발
 - 사용 환경; Onnx runtime, Tensor RT, Tensorflow Lite, CUDA, C++ 등","- Pytorch, Python, C++/C# 개발 경력자
 - LLVM, MLIR 프레임워크 연구/개발 유경험자
@@ -938,7 +894,7 @@ In order to set you up for success as an AI Research Scientist at VUNO BRAIN Tea
 - Pytorch, Onnx, Tensor RT 유경험자
 - 컴파일러 관련 과목 수강자
 - 관련 전공자(석사 이상) 우대","['Pytorch', 'Python', 'C++', 'CUDA']",https://www.wanted.co.kr/wd/215492
-59,[신입] VISION AI 연구/개발 분야 (팀원),서울 강남구,"• VISION 딥러닝/머신러닝 솔루션 연구 및 개발
+[신입] VISION AI 연구/개발 분야 (팀원),서울 강남구,"• VISION 딥러닝/머신러닝 솔루션 연구 및 개발
 
 • 이미지 분류 및 예측을 위한 딥러닝 모델 개발
 
