@@ -1,0 +1,110 @@
+﻿,skills
+0,[]
+1,"['Linux', 'Java', 'Python', 'C', 'C++']"
+2,"['Linux', 'Java', 'Python', 'C', 'C++']"
+3,"['Linux', 'ElasticSearch', 'Kubernetes']"
+4,"['Linux', 'Pytorch', 'Spark', 'Python', 'SQL', 'AWS', 'Kubernetes']"
+5,"['Git', 'Android', 'iOS', 'MySQL', 'Pytorch', 'React', 'Tensorflow', 'HTML', 'Java', 'JavaScript', 'Kotlin', 'Python', 'Swift', '딥 러닝', 'AWS', '신호 처리', '인공 지능', 'JPA', 'Spring Boot', 'ML']"
+6,"['Github', 'Pytorch', 'Tensorflow', 'Python', 'AWS', 'Docker', 'Kubernetes']"
+7,[]
+8,['Python']
+9,"['Python', 'SQL']"
+10,"['MySQL', 'Python', 'SQL', 'AWS']"
+11,"['Github', 'Python', 'AWS']"
+12,"['Github', 'Python', 'AWS']"
+13,[]
+14,"['Linux', 'Pytorch', 'Tensorflow', 'Shell', 'Docker']"
+15,[]
+16,[]
+17,[]
+18,[]
+19,['Python']
+20,['ML']
+21,['Verilog']
+22,"['C#', 'Python', 'C++']"
+23,[]
+24,[]
+25,['Python']
+26,[]
+27,[]
+28,"['Github', 'Pytorch', 'Python', 'AWS', 'Docker']"
+29,[]
+30,"['Git', 'Github', 'Linux', 'Pytorch', 'C / C++', 'Python', 'Docker', 'Ubuntu', 'OpenCV']"
+31,"['OpenGL', 'TypeScript', 'Scripting', 'C++']"
+32,"['Git', 'Linux', 'Pytorch', 'Python', 'Docker', 'PostgreSQL', 'FastAPI']"
+33,"['Pytorch', 'Python', 'C', '개발', 'C++', 'CCTV', '인공 지능']"
+34,"['Pytorch', 'Python', 'C', '개발', 'C++', 'CCTV', '인공 지능']"
+35,"['Pytorch', 'Python', 'C', '개발', 'C++', 'CCTV', '인공 지능']"
+36,"['Github', 'MongoDB', 'Python', 'GCP', 'React.js']"
+37,"['Git', 'Linux', 'Pytorch', 'Tensorflow', 'Python', 'Docker']"
+38,"['Git', 'Linux', 'Pytorch', 'Tensorflow', 'Python', 'Docker', 'OpenCV']"
+39,"['Git', 'Linux', 'Python']"
+40,"['Python', 'C++']"
+41,"['Git', 'Python', 'AWS']"
+42,[]
+43,"['Git', 'Pytorch', 'Tensorflow', 'Perl', 'Python', '딥 러닝', 'C', 'C++', '운영체제', '펌웨어', 'FPGA', 'SoC', '컴퓨터 비전', 'Verilog', 'TCL']"
+44,"['Git', 'Pytorch', 'Tensorflow', 'Perl', 'Python', '딥 러닝', 'C', 'C++', '운영체제', '펌웨어', 'FPGA', 'SoC', '컴퓨터 비전', 'Verilog', 'TCL']"
+45,"['Python', 'NLP']"
+46,[]
+47,[]
+48,[]
+49,[]
+50,"['Github', 'iOS', 'Python', 'Docker']"
+51,[]
+52,[]
+53,[]
+54,"['C / C++', 'Python', 'C++']"
+55,"['Github', 'Slack', 'Linux', 'Scikit-Learn', 'C / C++', 'Python', 'C', 'C++', 'Ubuntu', 'CUDA', 'NumPy', 'Notion']"
+56,"['Github', 'Pytorch', 'Tensorflow', 'Python']"
+57,"['Pytorch', 'Python', 'C++', 'CUDA']"
+58,"['Github', 'Flutter']"
+59,[]
+60,[]
+61,[]
+62,[]
+63,[]
+64,[]
+65,[]
+66,[]
+67,[]
+68,[]
+69,[]
+70,[]
+71,[]
+72,[]
+73,[]
+74,[]
+75,[]
+76,[]
+77,[]
+78,[]
+79,[]
+80,[]
+81,[]
+82,[]
+83,[]
+84,[]
+85,[]
+86,[]
+87,[]
+88,[]
+89,[]
+90,[]
+91,[]
+92,[]
+93,[]
+94,[]
+95,[]
+96,[]
+97,[]
+98,[]
+99,[]
+100,[]
+101,[]
+102,[]
+103,[]
+104,[]
+105,[]
+106,[]
+107,[]
+108,[]
