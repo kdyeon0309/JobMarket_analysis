@@ -1,4 +1,110 @@
-title,location,Main_task,qualifications,Preferred_Qualifications,skils,url
+title,location,Main_task,qualifications,Preferred_Qualifications,skills,url
+[신입] 머신러닝 엔지니어 (LLM),서울 서초구,"• 데이터를 분석하고 풀어야 할 문제를 정의합니다.
+• 동료들과 더 나은 LLM 기술에 대해 논의하고 연구합니다.
+• LLM 기반으로한 서비스를 개발하고 적용합니다.
+• RAG, Fine tuning 등을 이용해 LLM 모델의 성능을 향상 시킵니다.
+• LLM 실적용 성공 사례를 지속적으로 늘려나가고 전체 수행 과정 효율을 개선할 수 있는 체계를 함께 고민하여 반영합니다.","• LLM(Fine tuning 포함) 또는 NLP 모델의 학습 경험이 있는 분
+• LLM 또는 NLP 관련 논문 작성 경험이 있는 분
+• Python을 활용한 프로그래밍에 능숙한 분
+• 다양한 라이브러리와 프레임워크를 활용한 문제 해결 경험이 있는 분","• 다양한 분야의 데이터를 다룬 경험이 있는 분
+• AI Agent 활용 경험이 있거나 이해가 높은 분
+• 코드리뷰를 주고 받으며 협업한 경험이 있는 분",[],https://www.wanted.co.kr/wd/264181
+[카카오계열사]Prompt Engineer,서울 강남구,"• LLM 프롬프트 최적화 및 엔지니어링: 다양한 LLM(GPT, Claude, Gemini 등)을 활용하여 최적의 프롬프트를 설계하고 성능을 개선
+• LLM 기반 서비스 개발 및 고도화: RAG(Retrieval-Augmented Generation), Fine-tuning 등을 활용하여 AI 서비스를 개발 및 최적화
+• 신규 AI 서비스 기획 및 개발: LLM을 활용한 서비스 및 비즈니스 기회 발굴
+• AI 자동화 및 서비스 개선: LLM을 활용하여 자동화 및 AI 기반 서비스의 효율성 극대화","• 해외여행 결격사유가 없는 분
+• LLM 및 NLP 실무 경험: LLM 또는 자연어 처리(NLP)를 활용한 서비스 개발 및 실제 적용 경험
+• 프롬프트 엔지니어링 및 LLM 구조 이해: 대화형 LLM 모델의 아키텍처 및 최적화에 대한 이해와 실무 경험
+• Python 및 API 활용 능력: Python과 REST API 등을 이용한 LLM 연동 및 서비스 개발 경험","ML 기반 서비스 개발 또는 백엔드 개발 경험
+• ML 기반 서비스 개발 경험: 머신러닝 또는 LLM 기반 서비스를 기획, 개발, 운영한 경험
+• 백엔드 개발 경험: AI 모델 서빙 및 API 설계를 포함한 백엔드 시스템 개발 경험
+LLM 모델 최적화 및 응용 경험
+• LLM 기반 서비스의 전 과정 경험: 기획 구현 성능 평가 개선까지 진행한 경험
+• Fine-tuning 경험: BERT, LLAMA 등 오픈소스 LLM을 목적에 맞게 Fine-tuning하여 최적화한 경험
+• RAG 기반 서비스 개발 경험: RAG(Retrieval-Augmented Generation)를 활용한 정보 검색 및 생성 시스템 구축 경험
+멀티모달 및 에이전트 활용 경험
+• Agent 기반 AI 서비스 개발 경험: LangChain 등 프레임워크를 활용한 LLM 기반 Agent 개발 경험
+• 멀티모달 AI 모델 활용 경험: 텍스트/음성/이미지 데이터를 통합한 멀티모달 AI 모델 개발 경험
+클라우드 및 운영 경험
+• AWS 등 클라우드 환경 서비스 개발 경험","['Python', 'NLP']",https://www.wanted.co.kr/wd/264121
+Google Cloud Platform Solutions Engineer,서울 강남구,"• GCP 클라우드 아키텍처 설계 및 기술 컨설팅 수행
+• 고객사 클라우드 마이그레이션 전략 수립 및 기술 지원
+• Generative AI(생성형 AI) 솔루션 설계 및 구현 지원(Vertex AI, Gemini 등)
+• 제안서 작성, 기술 검증(PoC), 고객 프레젠테이션 수행
+• 고객 요구사항 분석 및 최적의 클라우드 솔루션 제안
+• GCP 신규 서비스 및 기술 동향 연구/전파
+
+* 경력 및 역량에 따라 업무 범위 상이","• 클라우드 환경에서의 프로젝트 경험 보유 (토이 프로젝트 포함)
+• Generative AI(생성형 AI) 서비스와 관련된 기본 지식
+• Python 개발 능력 보유
+• 원활한 커뮤니케이션 및 문서 작성 능력
+• 최신 기술 학습과 실무 적용에 적극적인 분","• Generative AI 프로젝트 경험자
+• AI/ML 프로젝트 수행 경험 또는 관련 지식 보유자
+• GCP 관련 자격증 보유 (Professiona lCloud Architect, Data Engineer, ML Engineer 등)
+• 영어 커뮤니케이션 가능자
+• 클라우드 플랫폼 설계/운영 경험 3년 이상자",[],https://www.wanted.co.kr/wd/263995
+코덱SW엔지니어 (화질분석/신입),서울 강남구,"[다음 업무를 통해 목표를 달성하고 성장합니다]
+• 영상처리, 동영상 압축 알고리즘 및 성능 분석","[이런분과 함께하고 싶어요]
+• 전자, 컴퓨터공학 학사 이상
+• C, Python 프로그래밍 능력
+• 비디오 압축 혹은 영상 처리에 관심이 있으신 분
+
+자격 요건 중에 한 두가지 부족하지만, 노력으로 충분히 캐치업할 수 있는 자신이 있다면 망설이지 말고 지원해주세요!","[이런분이라면 더욱 환영해요]
+• 비디오 압축 혹은 영상 처리 관련 연구 수행 및 프로젝트 경험자
+• 리눅스 환경에서 개발 가능","['Linux', 'Java', 'Python', 'C', 'C++']",https://www.wanted.co.kr/wd/174091
+코덱SW엔지니어 (알고리즘개발/신입),서울 강남구,"[이런분과 함께하고 싶어요]
+• 영상처리, 동영상 압축 등 멀티미디어 처리 기술개발","[이런분이라면 더욱 환영해요]
+• 전자, 컴퓨터공학 학사 이상
+• C/C++ 능숙
+• 비디오 압축 혹은 영상 처리에 관심이 있으신 분","[더 몰입하실 수 있도록 도와드려요]
+• 비디오 압축 혹은 영상 처리 관련 연구 수행 및 프로젝트 경험자
+• 리눅스 환경에서 개발 가능","['Linux', 'Java', 'Python', 'C', 'C++']",https://www.wanted.co.kr/wd/174088
+소프트웨어 엔지니어,서울 송파구,"[검색]
+• 엘라스틱 검색 시스템 구축 및 기술 지원
+• 검색 데이터 파이프라인 개발 및 유지보수
+• 검색 쿼리 개발 및 튜닝
+• 검색 데이터 분석 및 정제
+• RAG 시스템 구축
+• 벡터 데이터를 이용한 유사도 높은 의미 검색 결과 도출
+• 사용자 교육
+
+[옵저버빌리티]
+• 엘라스틱 관측 시스템 구축 및 기술 지원
+• 관측 대상 데이터 파이프라인 개발 및 유지보수
+• 수집 데이터 분석 및 정제
+• 데이터 시각화 대시보드 개발
+• 이상 탐지를 위한 Machine Learning Job 개발
+• 이상 탐지 Alert 개발 및 시스템 연동
+• 사용자 교육","[공통]
+• 다양한 데이터 분석 경험
+• 협업 및 문제 해결 능력
+
+[검색]
+• 검색 시스템 구축 및 운영 경험 (Elastic, 다이퀘스트, 코난, 와이즈넛 등)
+• 클라우드 환경(CSP, K8S, OC 등)구축 및 운영 경험
+
+[옵저버빌리티]
+• 관제 시스템 구축 및 운영 경험 (Elastic, DataDog, Prometheus 등)
+• 다양한 시각화 툴을 통한 대시보드 개발 경험 (Kibana, Tableau, Grafana 등)","[공통]
+• Elastic Stack 기술 경험 (Elasticsearch, Kibana, Logstash)
+• Kafka, Kubernetes 및 클라우드 구축 경험
+• 검색/보안/관제 솔루션 엔지니어링 경력
+• 대규모 데이터 파이프라인 구축 및 운영 경험
+• 검색 기능 연동을 위한 개발 경험(Java, Python)
+• 보안 관련 자격증 소지자
+• 머신러닝 기반 보안 분석 및 이벤트 탐지 경험","['Linux', 'ElasticSearch', 'Kubernetes']",https://www.wanted.co.kr/wd/263882
+Jr. ML Engineer(일반/전문연구요원),서울 강남구,"• CTR, CVR 예측 머신러닝 모델링 (counterfactual learning, online learning 등 포함)
+• Feature 엔지니어링 (LLM 등을 이용한 text feature 가공 포함)
+• 모델 경량화 및 서빙 최적화
+• ML 데이터 엔지니어링 전반","• 컴퓨터 공학, 수학, 통계학, 산업공학 등 머신러닝 유관 분야 석사 이상의 학위 소지자
+• 유관 분야 학사 이상의 학위 소지자이면서, 관련 분야에 논문을 발표한 경험이 있으신 분
+• 기초 통계, 전통적인 머신러닝, 딥러닝 이론들에 대해 탄탄한 지식을 보유하신 분
+• Python에 능숙하시고, Pytorch 또는 Tensorflow 중 하나 이상에 능숙하신 분
+
+• 현재는 리서치에 강점을 가진 분들을 우선하여 채용하고 있습니다. 지원에 참고해 주시면 감사하겠습니다.","• 머신러닝 유관 분야 박사 학위 소지자
+• WSDM, KDD, RecSys, ICDM 등 추천 시스템 분야 Top-tier conference 또는 저널 발표 실적을 보유하신 분
+• 실제 환경에서 모델 성능 개선을 통해 경영 지표를 개선해 본 경험이 있으신 분
+• AWS, Spark, Ray, FastAPI, Kubernetes 등 엔지니어링 관련 기술 스택을 보유하신 분","['Linux', 'Pytorch', 'Spark', 'Python', 'SQL', 'AWS', 'Kubernetes']",https://www.wanted.co.kr/wd/263752
 "딥러닝/머신러닝(AI) 개발자 [신입, 전문연구요원(보충역/전직) 가능",경기 성남시,"• 생체 신호 기반 딥러닝/머신러닝 모델 개발
 • 내부 토론식 세미나를 통해 문제점 및 해결방안 도출
 • 데이터 전처리, 통계 기반 데이터 분석","* 지원 시 포트폴리오 제출 필수 (연구 자료, 논문 자료 등)
@@ -11,7 +117,7 @@ title,location,Main_task,qualifications,Preferred_Qualifications,skils,url
 ** 해당 포지션은 전문연구요원 2025년 현역 신규편입은 불가합니다.","• 디지털 신호처리 알고리즘 개발 경험자
 • 통계학과, 응용수학과, 산업공학, 전자공학, 컴퓨터공학 등 관련 분야 전공자
 • 딥러닝 논문을 코드로 구현하고 실험/분석 역량 보유자
-• 의료, 보건 헬스케어 관련 기초 지식 보유 또는 관련 프로젝트 경험자","['Git', 'Android', 'iOS', 'MySQL', 'Pytorch', 'React', 'Tensorflow', 'HTML', 'Java', 'JavaScript', 'Kotlin', 'Python', 'Swift', '딥 러닝', 'AWS']",https://www.wanted.co.kr/wd/188191
+• 의료, 보건 헬스케어 관련 기초 지식 보유 또는 관련 프로젝트 경험자","['Git', 'Android', 'iOS', 'MySQL', 'Pytorch', 'React', 'Tensorflow', 'HTML', 'Java', 'JavaScript', 'Kotlin', 'Python', 'Swift', '딥 러닝', 'AWS', '신호 처리', '인공 지능', 'JPA', 'Spring Boot', 'ML']",https://www.wanted.co.kr/wd/188191
 AI Engineer (병특 전문연구요원가능),서울 종로구,"[기술스택]
 -Language - Python
 -Framework - Pytorch, Tensorflow, Keras, onnx, Langchain, Langgraph
@@ -235,35 +341,6 @@ AI, Robotics 관련 Top SCI급 저널 기고, 특허 보유하신 분",['Python'
 NPU RTL 설계 엔지니어 (전문연구요원/신입),서울 강남구,"• NPU Architecture 설계
 • NPU Core HW RTL Coding, Verification",• Verilog HDL 설계 경험,"• 딥러닝 알고리즘 이해
 • CPU Architecture, GPU Architecture 이해",['Verilog'],https://www.wanted.co.kr/wd/259898
-AI Engineer(LLM),서울 마포구,"• word embedding, text clustering 등 NLP 기술을 이용한 텍스트 데이터 전처리
-• text chunking , semantic matching 등을 활용한 문서 탐색 시스템 구조화
-• vector DB를 활용한 문석 검색 시스템 최적화
-• Retriever, Reader 등 유사 문서 검색 알고리즘 최적화
-• sLLM fine-tunning, ensemble 연구
-• prompt engineering
-
-전형 절차
-• 서류전형, 1차 전화 면접, 2차 대면 면접, 레퍼체크 및 처우 협의, 최종 합격","• 학력 : IT/공학 관련 석사 이상
-• 경력 : 무관, 신입 지원 가능
-
-• 기술
-- 고수준의 python 활용 능력 및 tensorflow, pytorch 활용 능력
-- Deep Learning (nlp, vision, audio, ...) 관련 프로젝트 경험이 있으신 분
-
-• 태도
-- 팀원간 명확한 의사소통 능력 (중요)
-- 기록과 정리 관련하여 중요성을 알고, 꾸준히 실천하실 분
-- 목표 달성을 위한 끈기와 높은 성과 의지
-- 빠른 학습 능력과 문제 해결 능력
-- AI 분야의 최신 동향에 관심이 많고 관련하여 지속적으로 학습, 성장이 가능하신 분
-- 프로젝트 진행을 위해, 적극적으로 여러 직군의 이해관계자와 협업할 수 있는 커뮤니케이션 능력을 갖추신 분
-- 스타트업의 초기 팀원으로 회사와 같이 성장해 나갈 열정이 넘치시는 분","- LLM 관련 프로젝트 경험
-- github, jira 시스템 사용 경험, 활용 능력
-- pandas, matplotlib 사용 경험, 활용 능력
-- 자연어처리, 컴퓨터 비전, 추천시스템 등 특정 분야의 AI 논문을 깊게 읽어본 경험
-- 웹서비스에 대한 이해
-- 팀단위 프로젝트에 참여하여 원활한 협업으로 프로젝트 완료에 기여한 경험
-- 프로젝트 리딩 경험","['Git', 'Github', 'Linux', 'MySQL', 'Pytorch', 'Tensorflow', 'Python', 'AWS', 'Go', 'Docker', 'Ubuntu', 'Notion', 'FastAPI']",https://www.wanted.co.kr/wd/219083
 [전문연구요원] Computer Vision Engineer,경기 수원시,"• Vision 관련 딥러닝 모델과 서비스의 운용을 위한 파이프라인 개발
 • 솔루션 형태의 다양한 Vision AI 제품 개발 및 관리
 • 카메라 하드웨어와 연동된 프로젝트 진행","• C++/C# Solution 개발 경험
@@ -625,38 +702,6 @@ AI Engineer,서울 강남구,"• Stable Diffusion 모델 기반의 이미지 �
 • 머신러닝을 인공지능, 데이터 마이닝을 활용해 실제 비즈니스 문제를 해결해 본 경험
 • AWS 활용 능력
 • Spark, Hadoop 활용한 분산처리 시스템 구축 경험",[],https://www.wanted.co.kr/wd/244779
-AI 엔지니어 (NLP),인천 미추홀구,"• 에세이 자동 채점 모델 성능 고도화 및 서비스화
-• 최신 AI 모델 및 논문 분석과 구현
-• GPU를 활용한 LLM 학습 및 Troubleshooting
-• 모델 최적화 및 지표 분석","• 모델 학습을 위한 학습 파이프라인 구축 경험
-• LLM모델에 대한 이해 및 관련 문제 해결 경험
-• Python 패키지 및 PyTorch 딥러닝 프레임워크에 대한 깊은 이해와 활용 능력
-• 최신 GitHub 오픈 소스 코드 활용 경험
-• 동료와의 원활한 협업 능력 및 커뮤니케이션 스킬
-• 해외여행 결격사유 없는자","• Automated Essay Scoring 모델 설계 및 성능 평가 경험
-• LLM(대규모 언어 모델)의 학습 및 튜닝 경험 (Pre-training, Fine-tuning, RLHF)
-• 최신 공개 모델 및 논문 분석 능력 및 구현 경험
-• 연구과제 및 프로젝트 수행 경험
-• 자연어 처리 또는 머신러닝 관련 연구 경험 및 논문 발표 경험
-• 대규모 언어 모델 개발 및 운영 경험
-• Pre-training, Fine-tuning, RLHF를 포함한 LLM 학습 알고리즘 개발
-• 분산처리를 통한 대규모 언어모델 학습 경험","['Git', 'Github', 'Linux', 'MySQL', 'Python', 'SQL', 'NLP', 'AWS', 'Docker', 'ML']",https://www.wanted.co.kr/wd/250399
-코덱SW엔지니어 (알고리즘개발/신입),서울 강남구,"[이런분과 함께하고 싶어요]
-• 영상처리, 동영상 압축 등 멀티미디어 처리 기술개발","[이런분이라면 더욱 환영해요]
-• 전자, 컴퓨터공학 학사 이상
-• C/C++ 능숙
-• 비디오 압축 혹은 영상 처리에 관심이 있으신 분","[더 몰입하실 수 있도록 도와드려요]
-• 비디오 압축 혹은 영상 처리 관련 연구 수행 및 프로젝트 경험자
-• 리눅스 환경에서 개발 가능","['Linux', 'Java', 'Python', 'C', 'C++']",https://www.wanted.co.kr/wd/174088
-코덱SW엔지니어 (화질분석/신입),서울 강남구,"[다음 업무를 통해 목표를 달성하고 성장합니다]
-• 영상처리, 동영상 압축 알고리즘 및 성능 분석","[이런분과 함께하고 싶어요]
-• 전자, 컴퓨터공학 학사 이상
-• C, Python 프로그래밍 능력
-• 비디오 압축 혹은 영상 처리에 관심이 있으신 분
-
-자격 요건 중에 한 두가지 부족하지만, 노력으로 충분히 캐치업할 수 있는 자신이 있다면 망설이지 말고 지원해주세요!","[이런분이라면 더욱 환영해요]
-• 비디오 압축 혹은 영상 처리 관련 연구 수행 및 프로젝트 경험자
-• 리눅스 환경에서 개발 가능","['Linux', 'Java', 'Python', 'C', 'C++']",https://www.wanted.co.kr/wd/174091
 [AI반도체] Deep Learning Optimization Engineer,서울 강남구,"- Quantization, Pruning 등 딥러닝 모델 경량화 연구 및 적용
 - HW 최적화를 고려한 딥러닝 모델 아키텍쳐 설계 및 학습
 - 딥러닝 최신 연구 동향 분석","- 딥러닝 프레임워크(PyTorch, TensorFlow 등) 활용 능력
@@ -913,6 +958,13 @@ AI 최적화 엔지니어,서울 관악구,"- AI NPU/GPU 최적화 개발
 • 다양한 영상 또는 이미지에 대하여 딥러닝을 활용한 연구 경력
 
 • unsupervised 또는 self / semi / weakly supervised 딥러닝 모델 개발을 할 수 있는 분","['Github', 'Flutter']",https://www.wanted.co.kr/wd/182774
+인공지능(AI) 엔지니어 신입 채용,경기 안양시,"• 인물 사진으로부터 얼굴과 헤어의 Detecting, Swapping, Processing
+• 생성형 AI 기반 모델 개발 및 개선
+• 다양한 Filter 및 보정 기술 개발","• AI 관련 분야 전공 또는 이에 준하는 실무 경험자
+• 생성형 AI 기술의 원리와 최신 드랜드에 대한 깊은 이해와 열정이 있으신 분
+• Stable Diffusion에 대한 이해와 활용 경험이 있으신 분","• 관련 학과 석사학위 이상
+• AI 기술로 상용 서비스를 출시/운영 경험자
+• 이미지 처리에 능숙하신 분",[],https://jumpit.saramin.co.kr/position/41890
 ML Engineer - Speech Processing (신입),서울 강남구,"[모집분야] 
 • AI Speech Processing 연구 및 개발
 • 사내 대형 음성 데이트를 활용하여 국내 다양한 수준의 초/중/고/성인의 음성 데이터를 기반으로 자체 AI 음성 인식 모델을 개발
@@ -932,44 +984,6 @@ ML Engineer - Speech Processing (신입),서울 강남구,"[모집분야]
 • 클라우드 플랫폼(AWS, Azure, GCP) 사용 경험이 있는 자를 우대합니다.
 • AI 관련 프로젝트 관리 경험이 있는 자를 우대합니다.
 • 자연어 처리 배경이 있으면 더 좋습니다.",[],https://jumpit.saramin.co.kr/position/42198
-디지털헬스케어 플랫폼 AI 엔지니어,경기 성남시,"디지털 헬스케어 디바이스로부터 얻어지는 생체신호를 분석하여 질병과 관련된 디지털 바이오마커를 분석하는 일을 합니다. 
-골격근의 상태를 진단 모니터링하는 측정 기술을 개발하며, 다양한 근육의 비선형 생체 신호를 학습알고리즘을 활용하여 정량적 지표를 개발을 수행합니다. 
-골격근 고유의 특성을 비침습적으로 진단하는 최초의 기술을 개발하여 건강관리의 새로운 패러다임을 만들어갑니다. 
-세계로 나아갈 수 있는 기술을 개발한는 핵심 인력 중 하나로서 회사의 미래를 함께 그려나가실 분을 찾습니다.
-
-• 근골격계 건강관리를 위한 생체신호 데이터 분석
-• 생체신호 기반의 정량적 / 질적 평가 알고리즘 및 예측 알고리즘 개발
-• 사용자 데이터 기반의 Key Index 및 측정해야 하는 DB 요구사항 도출","• 관련분야 석사 학위 이상
-• AI 관련 전공/프로젝트 포트폴리오 제출
-• Tensorflow / CNN, DNN, RNN 에 대한 높은 이해
-• 데이터 정제, outlier 제거 등 전처리를 위한 도구 개발 경험
-• Python / C++ / MATLAB 숙련자","• 관련분야 박사 학위자
-• 생체신호 분석 관련 프로젝트 포트폴리오 보유자
-• 관련 프로젝트 리드 경험자
-• 수준급 저널 논문 게재 실적 보유자",[],https://jumpit.saramin.co.kr/position/43221
-인공지능(AI) 엔지니어 신입 채용,경기 안양시,"• 인물 사진으로부터 얼굴과 헤어의 Detecting, Swapping, Processing
-• 생성형 AI 기반 모델 개발 및 개선
-• 다양한 Filter 및 보정 기술 개발","• AI 관련 분야 전공 또는 이에 준하는 실무 경험자
-• 생성형 AI 기술의 원리와 최신 드랜드에 대한 깊은 이해와 열정이 있으신 분
-• Stable Diffusion에 대한 이해와 활용 경험이 있으신 분","• 관련 학과 석사학위 이상
-• AI 기술로 상용 서비스를 출시/운영 경험자
-• 이미지 처리에 능숙하신 분",[],https://jumpit.saramin.co.kr/position/41890
-"Localization Engineer (Junior, 신입)",서울 영등포구,"• 자율주행 차량을 위한 측위 (localization) 및 지도제작 (mapping) 알고리즘 개발
-• 측위와 지도제작 알고리즘 개발 이전에 필요한 calibration과 같은 센서 시스템 관련 개발
-• DevOps, Perception, Planning 등 다른 분야의 엔지니어들과의 협업","**아래의 모든 자격요건들을 갖추신 분**
-
-• 컴퓨터 공학, 전기전자 공학 등 관련 학과 4년제 대학을 졸업한 분
-• SLAM, Localization, Mapping 관련 지식을 보유하고 프로젝트를 경험한 분
-• C++ 프로그래밍 경험이 있는 분","**다음 중 하나 이상을 만족하시는 분**
-
-• SLAM 관련 상용 제품 개발 경험 혹은 오픈소스에 핵심 기여 경험이 있는 분
-• 자율주행 시스템 전반에 대해서 이해도가 높은 분
-• X86 아키텍처 외의 환경에서의 개발 경험이 있는 분
-• Docker 컨테이너에 대한 지식 및 사용 경험이 있는 분
-• ROS, ROS2 사용 경험이 있는 분
-• CUDA 프로그래밍 등 최적화 지식이나 경험이 있는 분
-• LiDAR, Camera, IMU 등 다양한 센서를 사용한 경험이 있는 분
-• 알려지지 않은 문제를 찾아서 해결하는 과정 전체를 주도적으로 이끌 수 있는 분",[],https://jumpit.saramin.co.kr/position/42337
 [전문연구요원]AI연구엔지니어-LLM,경기 용인시,"• LLM Post-training을 위한 데이터 수집 및 정제
 • LLM Post-training 방법론 연구 및 개발
 • LLM 제품화를 위한 개발","• 관련 분야 석사 이상의 학위
@@ -995,6 +1009,22 @@ ML Engineer - Speech Processing (신입),서울 강남구,"[모집분야]
 • 소프트웨어 계열 전공자
 • 석·박사 학위 수여자
 • 전문연구요원(병역특례)",[],https://jumpit.saramin.co.kr/position/41817
+"Localization Engineer (Junior, 신입)",서울 영등포구,"• 자율주행 차량을 위한 측위 (localization) 및 지도제작 (mapping) 알고리즘 개발
+• 측위와 지도제작 알고리즘 개발 이전에 필요한 calibration과 같은 센서 시스템 관련 개발
+• DevOps, Perception, Planning 등 다른 분야의 엔지니어들과의 협업","**아래의 모든 자격요건들을 갖추신 분**
+
+• 컴퓨터 공학, 전기전자 공학 등 관련 학과 4년제 대학을 졸업한 분
+• SLAM, Localization, Mapping 관련 지식을 보유하고 프로젝트를 경험한 분
+• C++ 프로그래밍 경험이 있는 분","**다음 중 하나 이상을 만족하시는 분**
+
+• SLAM 관련 상용 제품 개발 경험 혹은 오픈소스에 핵심 기여 경험이 있는 분
+• 자율주행 시스템 전반에 대해서 이해도가 높은 분
+• X86 아키텍처 외의 환경에서의 개발 경험이 있는 분
+• Docker 컨테이너에 대한 지식 및 사용 경험이 있는 분
+• ROS, ROS2 사용 경험이 있는 분
+• CUDA 프로그래밍 등 최적화 지식이나 경험이 있는 분
+• LiDAR, Camera, IMU 등 다양한 센서를 사용한 경험이 있는 분
+• 알려지지 않은 문제를 찾아서 해결하는 과정 전체를 주도적으로 이끌 수 있는 분",[],https://jumpit.saramin.co.kr/position/42337
 ML Engineer (Junior & Senior),서울 강남구,"• AI 팀, 제품 개발팀 및 외부 연구 기관과 협력하여 최신 머신러닝 모델을 개발하고, 모델 학습 및 성능 평가를 담당합니다.
 • 반도체 전문가들과 긴밀히 협력하여 혁신적인 단위공정 모델링 도구를 개발하고, 현장의 피드백을 적극 반영합니다.
 • 단위공정 모델링은 아직 AI 도입이 활발하지 않은 분야입니다. 모델링 목표 수립부터 설계, 개발까지 전 과정을 주도적으로 이끌면서 새로운 영역을 개척해 나갈 수 있는 좋은 기회입니다.","• Python을 중심으로 한 탄탄한 프로그래밍 실력
@@ -1021,6 +1051,42 @@ ML Engineer (Junior & Senior),서울 강남구,"• AI 팀, 제품 개발팀 및
 • 대규모 데이터로부터 AI 모델 학습 및 추론을 위한 data/model pipeline을 개발한 경험
 • AI 관련 연구 또는 프로덕트 개발을 리딩한 경험
 • 새로운 연구 혹은 개발 방향성을 제시할 수 있는 능력",[],https://jumpit.saramin.co.kr/position/42328
+AI(딥러닝) 연구 및 개발 채용,서울 성동구,"• 시계열 데이터를 이용한 예측 및 이상 감지
+ - 질병 예측/진단, 구조물 이상 감지, 장비 예지 보전 등","• 나이/성별 : 무관
+• 신입 : AI 관련 학과 대학원 졸 이상
+• 경력 : 프로그래밍 관련 학과 대학교 졸업 및 AI 경력 1년 이상(대학원 AI 전공자의 경우 AI 경력 2년 인정)","• 컴퓨터/시스템 공학, 전기/전자공학, 수학/통계학 전공자
+• 통계 분석 능숙자, 컴퓨터 활용 능력 우수",[],https://jumpit.saramin.co.kr/position/43427
+[병역특례]ML Engineer -전문연구요원,서울 강남구,"• AI 팀, 제품 개발팀 및 외부 연구 기관과 협력하여 최신 머신러닝 모델을 개발하고, 모델 학습 및 성능 평가를 담당합니다.
+• 반도체 전문가들과 긴밀히 협력하여 혁신적인 단위공정 모델링 도구를 개발하고, 현장의 피드백을 적극 반영합니다.
+• 단위공정 모델링은 아직 AI 도입이 활발하지 않은 분야입니다. 모델링 목표 수립부터 설계, 개발까지 전 과정을 주도적으로 이끌면서 새로운 영역을 개척해 나갈 수 있는 좋은 기회입니다.","• 컴퓨터 공학 석사 학위, 관련 기술 분야 학위 또는 그에 준하는 실무 경험
+• Python을 중심으로 한 탄탄한 프로그래밍 실력
+• PyTorch 등 최신 머신러닝 프레임워크 활용 경험
+• 머신러닝 연구 및 개발 전반에 대한 경험
+• 소프트웨어 설계/아키텍처 역량을 갖춘 엔지니어링 실력
+• 머신러닝 이론에 대한 깊은 이해와 이를 활용한 문제 해결 능력 
+• 뛰어난 구두 및 서면 커뮤니케이션 능력","• 반도체 소자 데이터 관련 업무 경험
+• 대규모 머신러닝 모델 개발 경험",[],https://jumpit.saramin.co.kr/position/43031
+디지털헬스케어 플랫폼 AI 엔지니어,경기 성남시,"디지털 헬스케어 디바이스로부터 얻어지는 생체신호를 분석하여 질병과 관련된 디지털 바이오마커를 분석하는 일을 합니다. 
+골격근의 상태를 진단 모니터링하는 측정 기술을 개발하며, 다양한 근육의 비선형 생체 신호를 학습알고리즘을 활용하여 정량적 지표를 개발을 수행합니다. 
+골격근 고유의 특성을 비침습적으로 진단하는 최초의 기술을 개발하여 건강관리의 새로운 패러다임을 만들어갑니다. 
+세계로 나아갈 수 있는 기술을 개발한는 핵심 인력 중 하나로서 회사의 미래를 함께 그려나가실 분을 찾습니다.
+
+• 근골격계 건강관리를 위한 생체신호 데이터 분석
+• 생체신호 기반의 정량적 / 질적 평가 알고리즘 및 예측 알고리즘 개발
+• 사용자 데이터 기반의 Key Index 및 측정해야 하는 DB 요구사항 도출","• 관련분야 석사 학위 이상
+• AI 관련 전공/프로젝트 포트폴리오 제출
+• Tensorflow / CNN, DNN, RNN 에 대한 높은 이해
+• 데이터 정제, outlier 제거 등 전처리를 위한 도구 개발 경험
+• Python / C++ / MATLAB 숙련자","• 관련분야 박사 학위자
+• 생체신호 분석 관련 프로젝트 포트폴리오 보유자
+• 관련 프로젝트 리드 경험자
+• 수준급 저널 논문 게재 실적 보유자",[],https://jumpit.saramin.co.kr/position/43221
+"이미지 프로세싱 알고리즘 라이브러리(2D,3D,AI 딥러닝) 개발 신입 채용",경기 안양시,"ㆍ이미지 프로세싱 알고리즘 연구/ 개발
+ㆍ인공신경망 프레임워크 연구/ 개발
+ㆍ알고리즘 최적화","ㆍ컴퓨터/ 공학 계열 4년제 대학 졸업 이상 (예정자 가능)
+ㆍC/ C++ 이용 가능 필수","ㆍCuda 프로세싱 유 경험자
+ㆍ머신비전 (이미지 프로세싱 관련) 유 경험자
+ㆍC++ 최적화 가능자, C++ 최신 표준 사용 가능자 (17 or 20)",[],https://jumpit.saramin.co.kr/position/41824
 AI/LLM Curriculum Developer,경기 용인시,"• 업스테이지 기술 기반 맞춤형 교육 콘텐츠 개발
 • 교육 과정 설계 및 데이터 기반 개선
 • 교육 수강생 및 강의자 지원 자료 관리
@@ -1034,6 +1100,13 @@ AI/LLM Curriculum Developer,경기 용인시,"• 업스테이지 기술 기반 
 • AI 교육과정 기획 및 운영 경험
 • 개발자 커뮤니티 활동 경험
 • 글로벌 교육 자료 제작을 위한 영어 커뮤니케이션 역량",[],https://jumpit.saramin.co.kr/position/42348
+AI 개발자 연구원 신입,경기 성남시,"• 의료영상 분석 및 진단 인공지능(AI) 모델 연구, 개발
+• 성능 업데이트, 모델 최적화",• 경력 :0~1년 신입 우대,"• 전공 : 컴퓨터 공학 또는 인공지능 관련 학과
+• 관련 분야의 석사, 박사 학위 취득자
+• 의료영상 진단 AI 프로그램을 개발하여, 국내외 식약처 3등급 소프트웨어 의료기기 인증을 받은 경험자
+• 의료영상 진단 AI 분야의 제품 개발 경험자
+• 이미지 프로세싱 전문가
+• 병역특례 (석사 이상 현역/보충역/전입자) 우대",[],https://jumpit.saramin.co.kr/position/43185
 ADAS NPU AI SW Engineer,경기 성남시,"[SW 솔루션 개발팀]
 SW 솔루션 개발팀은 차량용 반도체에 탑재되어 고객의 사용 시나리오에 맞게 반도체를 제어하며 최고의 성능을 낼 수 있도록 최적화된 고품질의 임베디드시스템 SW 개발을 미션으로 합니다. 
 차량용 반도체의 Computing/Safety 수준에 맞추어 칩 내부의 HW IP 디바이스 Enabling을 위한 firmware, bootloader에서부터 Linux나 RTOS와 같은 OS 플랫폼 기반의 kernel, device driver, system framework, 및 자율주행 DL 솔루션과 같은 분야의 SW를 제공합니다. 각 해당 분야의 전문가들이 팀을 이루어 업계 최고의 차량용 반도체 SW 개발을 위해 함께 연구/개발하고 있습니다.
@@ -1050,42 +1123,6 @@ SW 솔루션 개발팀은 차량용 반도체에 탑재되어 고객의 사용 �
 ㆍ경력직 : 위 개발 분야 중 어느 한 분야에서 충분한 개발 경험을 갖고 계시는 분
 ㆍ신입직 : 위 개발 분야에 새롭게 도전하여 최고의 자율주행 DL SW 개발자가 되고 싶은 열정있는 엔지니어 분","ㆍGPU/NPU/TPU등 HW NN engine 기반 SDK/DL AI모델/알고리즘 관련 개발 경험
 ㆍ차량용 반도체 HW/SW 개발 경험",[],https://jumpit.saramin.co.kr/position/42912
-[병역특례]ML Engineer -전문연구요원,서울 강남구,"• AI 팀, 제품 개발팀 및 외부 연구 기관과 협력하여 최신 머신러닝 모델을 개발하고, 모델 학습 및 성능 평가를 담당합니다.
-• 반도체 전문가들과 긴밀히 협력하여 혁신적인 단위공정 모델링 도구를 개발하고, 현장의 피드백을 적극 반영합니다.
-• 단위공정 모델링은 아직 AI 도입이 활발하지 않은 분야입니다. 모델링 목표 수립부터 설계, 개발까지 전 과정을 주도적으로 이끌면서 새로운 영역을 개척해 나갈 수 있는 좋은 기회입니다.","• 컴퓨터 공학 석사 학위, 관련 기술 분야 학위 또는 그에 준하는 실무 경험
-• Python을 중심으로 한 탄탄한 프로그래밍 실력
-• PyTorch 등 최신 머신러닝 프레임워크 활용 경험
-• 머신러닝 연구 및 개발 전반에 대한 경험
-• 소프트웨어 설계/아키텍처 역량을 갖춘 엔지니어링 실력
-• 머신러닝 이론에 대한 깊은 이해와 이를 활용한 문제 해결 능력 
-• 뛰어난 구두 및 서면 커뮤니케이션 능력","• 반도체 소자 데이터 관련 업무 경험
-• 대규모 머신러닝 모델 개발 경험",[],https://jumpit.saramin.co.kr/position/43031
-"이미지 프로세싱 알고리즘 라이브러리(2D,3D,AI 딥러닝) 개발 신입 채용",경기 안양시,"ㆍ이미지 프로세싱 알고리즘 연구/ 개발
-ㆍ인공신경망 프레임워크 연구/ 개발
-ㆍ알고리즘 최적화","ㆍ컴퓨터/ 공학 계열 4년제 대학 졸업 이상 (예정자 가능)
-ㆍC/ C++ 이용 가능 필수","ㆍCuda 프로세싱 유 경험자
-ㆍ머신비전 (이미지 프로세싱 관련) 유 경험자
-ㆍC++ 최적화 가능자, C++ 최신 표준 사용 가능자 (17 or 20)",[],https://jumpit.saramin.co.kr/position/41824
-AI 개발자 연구원 신입,경기 성남시,"• 의료영상 분석 및 진단 인공지능(AI) 모델 연구, 개발
-• 성능 업데이트, 모델 최적화",• 경력 :0~1년 신입 우대,"• 전공 : 컴퓨터 공학 또는 인공지능 관련 학과
-• 관련 분야의 석사, 박사 학위 취득자
-• 의료영상 진단 AI 프로그램을 개발하여, 국내외 식약처 3등급 소프트웨어 의료기기 인증을 받은 경험자
-• 의료영상 진단 AI 분야의 제품 개발 경험자
-• 이미지 프로세싱 전문가
-• 병역특례 (석사 이상 현역/보충역/전입자) 우대",[],https://jumpit.saramin.co.kr/position/43185
-AI 엔지니어(NLP/LLM),서울 송파구,"• LLM 모델 커스터마이징을 위한 대규모 데이터 관리(전처리, 후처리)
-• LLM 모델 학습 과정 및 결과에 대한 정량적 분석
-• LLM 모델 서비스를 위한 프롬프트 엔지니어링 및 RAG 연구","• 최신 NLP (특히 LLM) 모델을 사용하거나 공부한 경험이 있으신 분
-• NLP Production 개발 경험이 있으신 분
-• LLM Model을 serving하거나 finetuning 해보신 분
-• 적절한 답변 유도를 위해 Prompt engineering을 수행해보신 분
-• 최신 논문 읽기 및 이해 능력 가능하신 분.
-• 독립적인 연구 및 실험 설계 가능하신 분.
-• 강력한 문제 해결 능력과 비판적 사고 능력있으신 분.","• 자연어 처리(NLP) 및 머신러닝(ML) 분야에서의 최소 3-5년 이상의 실무 경험.
-• 관련 분야의 석사 또는 박사 학위 소지자.
-• 대규모 언어 모델(예: GPT, BERT 등) 연구 및 개발 경험.
-• 적극적이고 진취적인 태도
-• 최신 기술 동향에 대한 지속적인 학습 및 적용 의지",[],https://jumpit.saramin.co.kr/position/41679
 AI Research Engineer - LLM,경기 용인시,"• LLM Post-training을 위한 데이터 수집 및 정제
 • LLM Post-training 방법론 연구 및 개발
 • LLM 제품화를 위한 개발","• LLM Post-training 경험
@@ -1097,194 +1134,6 @@ AI Research Engineer - LLM,경기 용인시,"• LLM Post-training을 위한 데
  (E.g. NeurIPS, ICML, ICLR, ACL, NAACL, EMNLP, AAAI, CVPR, ICCV, ECCV 등)
 • 국제 혹은 국내 AI 대회 (Kaggle 등) 상위권 입상
 • 글로벌 고객 대응을 위한 영어 커뮤니케이션 능력",[],https://jumpit.saramin.co.kr/position/42332
-AI engineer(LLM),서울 마포구,"• word embedding, text clustering 등 NLP 기술을 이용한 텍스트 데이터 전처리
-• text chunking , semantic maching 등을 활용한 문서 탐색 시스템 구조화
-• vector DB를 활용한 문석 검색 시스템 최적화
-• Retriever, Reader 등 유사 문서 검색 알고리즘 최적화
-• sLLM fine-tunning, ensemble 연구
-• prompt engineering","• 경력 : 무관, 신입 지원 가능
- 
-• 기술
- • 고수준의 python 활용 능력 및 tensorflow, pytorch 활용 능력
- • Deep Learning (nlp, vision, audio, ...) 관련 프로젝트 경험이 있으신 분 
-
-• 태도
- • 팀원간 명확한 의사소통 능력 (중요)
- • 기록과 정리 관련하여 중요성을 알고, 꾸준히 실천하실 분
- • 목표 달성을 위한 끈기와 높은 성과 의지
- • 빠른 학습 능력과 문제 해결 능력
- • AI 분야의 최신 동향에 관심이 많고 관련하여 지속적으로 학습, 성장이 가능하신 분
- • 고객사 프로젝트 진행을 위해, 적극적으로 여러 직군의 이해관계자와 협업할 수 있는 커뮤니케이션 능력을 갖추신 분
- • 스타트업의 초기 팀원으로 회사와 같이 성장해 나갈 열정이 넘치시는 분","• LLM 관련 프로젝트 경험
-• github, jira 시스템 사용 경험, 활용 능력
-• pandas, matplotlib 사용 경험, 활용 능력
-• 자연어처리, 컴퓨터 비전, 추천시스템 등 특정 분야의 AI 논문을 깊게 읽어본 경험
-• 웹서비스에 대한 이해
-• 팀단위 프로젝트에 참여하여 원활한 협업으로 프로젝트 완료에 기여한 경험
-• 프로젝트 리딩 경험",[],https://jumpit.saramin.co.kr/position/42218
-[AI연구소] AI연구원 - Computer Vision AI,서울 구로구,"• 컴퓨터 비전 관련 연구 및 모델 개발
-• 영상 처리 알고리즘 개발
-• 관련 학회 논문 제출 및 특허 작성","• AI 관련 분야 석사 학위 이상
-• Pytorch, Tensorflow등 주요 Deep Learning framework 활용 능력
-• Linux/Shell, docker/Container 활용 능력
-• 형상관리 툴 활용 능력
-• 의사 소통 능력","• 대규모 데이터 관리 및 전처리 경험
-• VLM(Vision Language Model) 개발 경험
-• 국제/국내 인공지능 대회 수상 이력
-• 주요 학술대회에 논문 게재 이력",[],https://jumpit.saramin.co.kr/position/41259
-LLM Researcher (경력 5년이하),서울 강남구,"• LLM post training을 위한 데이터 수집 및 정제
-• LLM Post train 방법론 연구 및 개발
-• LLM serving 환경 구축 및 실험
-• Generative AI 신규 기술 Research","• Python 등 프로그래밍 언어 경험
-• Tensorflow, PyTorch 등 Machine Learning Framework 활용 경험
-• LLM Post-training 및 관련 python 라이브러리 사용 경험 (transformers, peft, accelerate 등)
-• 다양한 협업 환경에서 일할 수 있는 능력
-• 훌륭한 의사 소통 능력","• 관련 분야(수학, 통계, 컴퓨터 공학 등) 석사 이상 전공자
-• LLM Post-training을 위한 데이터 수집, 정제, 및 데이터 구축 경험
-• Docker 수행 능력
-• CVPR, ICCV, ECCV, NeurIPS, AAAI, IEEE, EMNLP 등 저널/학회 논문 저자 또는 참여",[],https://jumpit.saramin.co.kr/position/42012
-Document AI Researcher (경력 3년이하),서울 강남구,"• 비구조 데이터 문서 처리 솔루션 내 신규 모델 개발
-• OCR 및 CV, NLP 등 기 개발 모델 유지 보수 및 고도화
-• Document AI 관련 신규 기술 research","• Python 등 프로그래밍 언어 경험
-• Tensorflow, PyTorch 등 Machine Learning Framework 활용 경험
-• CV, NLP 등 Document AI 관련 모델 개발 경험
-• 다양한 협업 환경에서 일할 수 있는 능력
-• 훌륭한 의사 소통 능력","• 관련 분야(수학, 통계, 컴퓨터 공학 등) 석사 이상 전공자
-• Document AI를 위한 데이터 수집, 정제, 및 데이터 구축 경험
-• CVPR, ICCV, ECCV, NeurIPS, AAAI, IEEE, EMNLP 등 저널/학회 논문 저자 또는 참여",[],https://jumpit.saramin.co.kr/position/39667
-Data 엔지니어 - Junior (대전 근무),대전 서구,"• 비정형 데이터 처리를 위한 pipeline 구축
-• 데이터 수집 및 관리
-• NLP 관련 modeling 업무 (NMT, NER 등)
-• 연구 과제 수행
-• 최신 논문에 대한 research","• 학사 이상 (컴퓨터공학, 수학, 물리, 통계 등 관련 공학계열)
-• NLP 관련 업무 경험이나 지식
-• Python, Linux, Docker, Pytorch, Tensorflow
-• NLP, LLM 등에 대한 최신 동향 이해
-• 준수한 협업 능력","• 석사 이상 (컴퓨터공학, 수학, 물리, 통계 등 관련 공학계열)
-• NLP 관련 모델 개발 경험
-• Generative AI 에 대한 연구 경험
-• 영어 회화 중급 수준 가능자",[],https://jumpit.saramin.co.kr/position/41255
-코덱 SW 엔지니어 (알고리즘 개발/신입),서울 강남구,"• 영상처리, 동영상 압축 등 멀티미디어 처리 기술개발","• 전자, 컴퓨터공학 학사 이상
-• C/C++ 능숙
-• 비디오 압축 혹은 영상 처리에 관심이 있으신 분","• 비디오 압축 혹은 영상 처리 관련 연구 수행 및 프로젝트 경험자
-• 리눅스 환경에서 개발 가능",[],https://jumpit.saramin.co.kr/position/42503
-코덱SW엔지니어 (화질분석/신입),서울 강남구,"• 영상처리, 동영상 압축 알고리즘 및 성능 분석","• 전자, 컴퓨터공학 학사 이상
-• C, Python 프로그래밍 능력
-• 비디오 압축 혹은 영상 처리에 관심이 있으신 분
-
-자격 요건 중에 한 두가지 부족하지만, 노력으로 충분히 캐치업할 수 있는 자신이 있다면 망설이지 말고 지원해주세요!","• 비디오 압축 혹은 영상 처리 관련 연구 수행 및 프로젝트 경험자
-• 리눅스 환경에서 개발 가능",[],https://jumpit.saramin.co.kr/position/42501
-AI Research Engineer - Document AI,경기 용인시,"• DocumentAI Vision 모델 연구 및 개발
-• 고객의 문제를 이해하고, 그를 가장 효과적으로 해결하기 위한 가설 제시 및 검증을 수행
-• 제품의 요구 사항을 이해하고 이를 개발 목표 및 연구 과제로 변환
-• 모델 성능에 대한 객관적인 메트릭 정의 및 측정","• 관련 분야 석사 학위
-• AI 문제를 정의하고 해결하는 능력
-• 기초 머신러닝 알고리즘에 대한 깊은 이해
-• Python, C++ 등의 언어를 활용한 강력한 프로그래밍 능력 및 Linux/Shell 활용 능력
-• CV, NLP, LLM 등 관심 AI 도메인의 최신 알고리즘에 대한 이해
-• 주요 기계 학습 프레임워크에 대한 깊은 이해(예: TensorFlow, PyTorch)
-• 다양한 협업 환경에서 일할 수 있는 능력
-• 훌륭한 의사 소통 능력","• 대규모 상용 ML(CV, NLP 등) 제품 개발 경험
-• 최고의 AI 컨퍼런스(e.g. NeurIPS, ICML, ICLR, AAAI, CVPR, ICCV, ECCV, ACL, EMNLP, KDD, etc)에서 1저자 혹은 교신저자로 출판 기록
-• 국제 혹은 국내 AI 대회 (Kaggle 등) 상위권 입상
-• 대규모 데이터로부터 AI 모델 학습 및 추론을 위한 data/model pipeline을 개발한 경험
-• AI 관련 연구 또는 프로덕트 개발을 리딩한 경험
-• 새로운 연구 혹은 개발 방향성을 제시할 수 있는 능력",[],https://jumpit.saramin.co.kr/position/42331
-임베디드 AI 개발자 (C++),서울 강서구,"Embedded AI SW 기술 개발: 
-• Embedded AI application 개발 및 최적화
-• Algorithm 최적화 및 SIMD 최적화
-• Embedded(SoC) 및 RTOS 환경에서 모델 배포 프로세스 개발",• 관련 분야 학사 학위 혹은 2년 이상 경력 보유,"• 관련 분야 논문 보유자 (국제 학회 또는 SCI/SCIE 저널)  
-• 특정 하드웨어 가속기(e.g., GPUs, TPUs, FPGAs)에 대한 DL/ML 최적화 경험
-• Embedded 및 RTOS환경 구축 및 개발 경험
-• C++(Modern C++ 포함) 개발 역량
-• Agile 또는 ASPICE 프로젝트 경험",[],https://jumpit.saramin.co.kr/position/42804
-Artificial Intelligence Researcher 채용,서울 영등포구,"사용 기술
-• Pytorch, Keras, Tensorflow, DeepLearning, MachineLearning
-
-주요 업무
-• 의료 영상 분석 (ex. Classification, Segmentation)을 위한 AI 알고리즘 개발 및 검증의료 영상 개선 (ex. Super-Resolution, Denoising)을 위한 AI 알고리즘 개발 및 검증
-• 의료 영상 개선 (Super-Resolution, Denoising)을 위한 AI 알고리즘 개발 및 검증
-• 기술/임상 컨퍼런스 및 저널 논문 투고 및 발표를 위한 연구 수행","• Computer Vision, Image Processing, ML/DL, 의공학 전공 관련 석사/박사 또는 실무자
-• Python 및 ML/DL 프레임워크 유경험자 (예: Pytorch, Tensorflow, Keras 등)
-• 데이터 수집, 주석, 전처리 및 관리를 포함한 AI 모델 개발 전문가","• 의료 영상, ML/DL 또는 컴퓨터 비전 컨퍼런스나 저널 논문 작성 유경험자
-• 최신 의료 영상 및/또는 AI 연구 트렌드 탐색 및 적용 유경험자
-• 의료 도메인 CT, MR 데이터세트의 2D/3D computer vision task 유경험자
-
-[이런 분과 일하고 싶어요]
-• 흥미와 열정을 가지고 주도적인 업무 수행
-• 팀 내 액티브한 커뮤니케이션",[],https://jumpit.saramin.co.kr/position/42990
-임베디드 AI 개발자 (병역특례),서울 강서구,"Embedded AI SW 기술 개발: 
-• Embedded AI application 개발 및 최적화
-• Algorithm 최적화 및 SIMD 최적화
-• Embedded(SoC) 및 RTOS 환경에서 모델 배포 프로세스 개발",• 관련 분야 학사 학위 혹은 2년 이상 경력 보유,"• 관련 분야 논문 보유자 (국제 학회 또는 SCI/SCIE 저널)  
-• 특정 하드웨어 가속기(e.g., GPUs, TPUs, FPGAs)에 대한 DL/ML 최적화 경험
-• Embedded 및 RTOS환경 구축 및 개발 경험
-• C++(Modern C++ 포함) 개발 역량
-• Agile 또는 ASPICE 프로젝트 경험",[],https://jumpit.saramin.co.kr/position/42805
-Vision AI Application Engineer,서울 강서구,"Vision AI application을 위한 Deep Learning 모델 개발 및 최적화: 
-• Object Detection, Segmentation, Human Pose Estimation 기술 개발
-• 학습 DB 설계 및 학습 최적화",• 관련 분야 석사 학위 혹은 2년 이상 경력 보유,"• 관련 분야 논문 보유자 (국제 학회 또는 SCI/SCIE 저널)  
-• 영상처리 개발 역량
-• ML(예: SVM, Random Forest) 개발 역량
-• 영어회화 가능
-• AI 개발 전주기 경험자",[],https://jumpit.saramin.co.kr/position/42800
-Vision AI Application Engineer(병역특례),서울 강서구,"Vision AI application을 위한 Deep Learning 모델 개발 및 최적화: 
-• Object Detection, Segmentation, Human Pose Estimation 기술 개발
-• 학습 DB 설계 및 학습 최적화",• 관련 분야 석사 학위 혹은 2년 이상 경력 보유,"• 관련 분야 논문 보유자 (국제 학회 또는 SCI/SCIE 저널)  
-• 영상처리 개발 역량
-• ML(예: SVM, Random Forest) 개발 역량
-• 영어회화 가능
-• AI 개발 전주기 경험자",[],https://jumpit.saramin.co.kr/position/42801
-실내 내비게이션 연구/개발(전문연구요원가능),"대구 동구, 경기 안양시","• 내비게이션 서비스 측위 기술 연구/개발
-• 센서 기반 측위 기술 연구/개발
-• GPS 및 AIoT기반 측위 기술 연구/개발
-• 라이다, 카메라, BLE 등의 인식 센서 기반 측위 기술 연구/개발
-• 융합형 필터 / 머신러닝 측위 기술 연구/개발","• 컴퓨터공학, 전자공학, 기계공학, 물리학, 통계학 관련 전공
-• 센서 및 GPS 신호 분석, 응용 알고리즘 개발
-• Embedded SW개발(C / C++)
-• 데이터 분석(Matlab 또는 Python)
-• C++ 및 Python 프로그래밍 능력
-• Linux 상 프로그램 개발 능력
-• ROS에 대한 이해","• 측위기술 과제 경험, Embedded 시스템 구현 경험
-• 머신러닝기반 알고리즘 개발 경험
-• 자율주행 시스템의 전반적인 구조에 대한 이해
-• SLAM, Kalman filter, 차량 동력학(Vehicle dynamics)에 대한 이해
-• 실제 인식 센서 활용 경험
-• 근무지(경기/대구) 선택 가능
- - 경기도 안양시 동안구 엘에스로116번길 118 안양2차 SKV1 926호
- - 대구광역시 동구 동대구로 465, 대구스케일업허브",[],https://jumpit.saramin.co.kr/position/43202
-LLM Research Engineer (병역특례),서울 강서구,"LLM 개발 및 최적화: 
-• Domain-specific LLM 및 sLLM 개발 
-• LLM 경량화(예: Pruning, Quantization, Distillation) 개발
-• LLM 추론 엔진(예: llama.cpp, TensorRT-LLM, MLC-LLM) 개발",• 관련 분야 석사 학위 혹은 2년 이상 경력 보유,"• LLM 관련 분야 논문 보유자 (국제 학회 또는 SCI/SCIE 저널)  
-• LLM 모델 적용 제품 개발 경험 보유자",[],https://jumpit.saramin.co.kr/position/42799
-LLM Research Engineer,서울 강서구,"LLM 개발 및 최적화: 
-• Domain-specific LLM 및 sLLM 개발 
-• LLM 경량화(예: Pruning, Quantization, Distillation) 개발
-• LLM 추론 엔진(예: llama.cpp, TensorRT-LLM, MLC-LLM) 개발",• 관련 분야 석사 학위 혹은 2년 이상 경력 보유,"• LLM 관련 분야 논문 보유자 (국제 학회 또는 SCI/SCIE 저널)  
-• LLM 모델 적용 제품 개발 경험 보유자",[],https://jumpit.saramin.co.kr/position/42798
-Model Compression Research Engineer,서울 강서구,"Model Compression 기술 개발: 
-• Neural Architecture Search (NAS) 
-• Quantization Aware Training (QAT) & Post Training Quantization (PTQ) 
-• Knowledge Distillation (KD)","• 관련 분야 석사 학위 혹은 2년 이상 경력 보유 
-• TensorFlow, PyTorch 등 주요 DL 프레임워크 활용 경험 
-• 영어 회화 가능 (외국인과 업무 소통 가능) 
-• 팀과 협업 및 원활한 커뮤니케이션 보유 
-• 독립적인 리서치 프로젝트 수행 능력 
-• 최신 논문 이해 및 모델 적용 능력","• 관련 분야 논문 보유자 (국제 학회 또는 SCI/SCIE 저널)  
-• 특정 하드웨어 가속기(e.g., GPUs, TPUs, FPGAs)에서 DL/ML 최적화 경험  
-• 경량화를 위한 모델 서빙 프레임워크(e.g., TensorFlow Serving, ONNX Runtime)에서 개발 경험",[],https://jumpit.saramin.co.kr/position/42802
-Model Compression Research (병역특례),서울 강서구,"Model Compression 기술 개발: 
-• Neural Architecture Search (NAS) 
-• Quantization Aware Training (QAT) & Post Training Quantization (PTQ) 
-• Knowledge Distillation (KD)","• 관련 분야 석사 학위 혹은 2년 이상 경력 보유 
-• TensorFlow, PyTorch 등 주요 DL 프레임워크 활용 경험 
-• 영어 회화 가능 (외국인과 업무 소통 가능) 
-• 팀과 협업 및 원활한 커뮤니케이션 보유 
-• 독립적인 리서치 프로젝트 수행 능력 
-• 최신 논문 이해 및 모델 적용 능력","• 관련 분야 논문 보유자 (국제 학회 또는 SCI/SCIE 저널)  
-• 특정 하드웨어 가속기(e.g., GPUs, TPUs, FPGAs)에서 DL/ML 최적화 경험  
-• 경량화를 위한 모델 서빙 프레임워크(e.g., TensorFlow Serving, ONNX Runtime)에서 개발 경험",[],https://jumpit.saramin.co.kr/position/42803
 AI 최적화 Researcher 채용,서울 강남구,"• 에너자이의 추론 엔진 Optimium은 크게 ""Graph Level"", ""Kernel level"", ""Runtime level"" 로 구분됩니다.
 • 해당 직군은 ""Graph Level""에서의 연구 개발을 맡아 수행하실 분을 찾고 있습니다. ""Graph Level""에서의 연구 개발은 아래 내용을 포함합니다.
 
@@ -1309,7 +1158,238 @@ AI 최적화 Researcher 채용,서울 강남구,"• 에너자이의 추론 엔�
 • 딥러닝 모델 경량화 및 추론 가속화 기법에 관한 경험이 있으신 분
 • 관련 학회 및 저널 게재 경력자
 • 관련 전공 석사, 박사 학위 보유자 (경력 인정)",[],https://jumpit.saramin.co.kr/position/43105
-지식기반 AI 챗봇 주니어급 채용,경기 성남시,"ㆍLLM 모델을 활용한 AI 서비스 개발 (Prompt Engineering /RAG)
+AI Research Engineer - Document AI,경기 용인시,"• DocumentAI Vision 모델 연구 및 개발
+• 고객의 문제를 이해하고, 그를 가장 효과적으로 해결하기 위한 가설 제시 및 검증을 수행
+• 제품의 요구 사항을 이해하고 이를 개발 목표 및 연구 과제로 변환
+• 모델 성능에 대한 객관적인 메트릭 정의 및 측정","• 관련 분야 석사 학위
+• AI 문제를 정의하고 해결하는 능력
+• 기초 머신러닝 알고리즘에 대한 깊은 이해
+• Python, C++ 등의 언어를 활용한 강력한 프로그래밍 능력 및 Linux/Shell 활용 능력
+• CV, NLP, LLM 등 관심 AI 도메인의 최신 알고리즘에 대한 이해
+• 주요 기계 학습 프레임워크에 대한 깊은 이해(예: TensorFlow, PyTorch)
+• 다양한 협업 환경에서 일할 수 있는 능력
+• 훌륭한 의사 소통 능력","• 대규모 상용 ML(CV, NLP 등) 제품 개발 경험
+• 최고의 AI 컨퍼런스(e.g. NeurIPS, ICML, ICLR, AAAI, CVPR, ICCV, ECCV, ACL, EMNLP, KDD, etc)에서 1저자 혹은 교신저자로 출판 기록
+• 국제 혹은 국내 AI 대회 (Kaggle 등) 상위권 입상
+• 대규모 데이터로부터 AI 모델 학습 및 추론을 위한 data/model pipeline을 개발한 경험
+• AI 관련 연구 또는 프로덕트 개발을 리딩한 경험
+• 새로운 연구 혹은 개발 방향성을 제시할 수 있는 능력",[],https://jumpit.saramin.co.kr/position/42331
+Artificial Intelligence Researcher 채용,서울 영등포구,"사용 기술
+• Pytorch, Keras, Tensorflow, DeepLearning, MachineLearning
+
+주요 업무
+• 의료 영상 분석 (ex. Classification, Segmentation)을 위한 AI 알고리즘 개발 및 검증의료 영상 개선 (ex. Super-Resolution, Denoising)을 위한 AI 알고리즘 개발 및 검증
+• 의료 영상 개선 (Super-Resolution, Denoising)을 위한 AI 알고리즘 개발 및 검증
+• 기술/임상 컨퍼런스 및 저널 논문 투고 및 발표를 위한 연구 수행","• Computer Vision, Image Processing, ML/DL, 의공학 전공 관련 석사/박사 또는 실무자
+• Python 및 ML/DL 프레임워크 유경험자 (예: Pytorch, Tensorflow, Keras 등)
+• 데이터 수집, 주석, 전처리 및 관리를 포함한 AI 모델 개발 전문가","• 의료 영상, ML/DL 또는 컴퓨터 비전 컨퍼런스나 저널 논문 작성 유경험자
+• 최신 의료 영상 및/또는 AI 연구 트렌드 탐색 및 적용 유경험자
+• 의료 도메인 CT, MR 데이터세트의 2D/3D computer vision task 유경험자
+
+[이런 분과 일하고 싶어요]
+• 흥미와 열정을 가지고 주도적인 업무 수행
+• 팀 내 액티브한 커뮤니케이션",[],https://jumpit.saramin.co.kr/position/42990
+Runtime 소프트웨어 엔지니어 채용,서울 강남구,"Proprietary AI compiler(Optima)의 runtime 개발
+• device communication interface 및 프로토콜 디자인/구현
+ - ssh, adb, tcp/ip, packet 통신, RPC 통신 등
+• parallel programming
+ - multithread programming
+ - GPU
+• 다양한 디바이스 지원을 위한 binding 제작
+ - vulkan, spir-V, XNNPack 등
+• 사용자 api 제작
+• 모델 실행 시 최적화 알고리즘 제작
+ - memory planning, execution scheduling 등
+• 라이브러리 압축 / 보안을 위한 암호화","• C/C++, python을 활용한 프로젝트 개발 경험이 있으신 분
+• 동시성 프로그래밍 경험이 있으신 분
+• 다양한 device/OS(Android, iOS, linux, ARM64, x86_64 등)를 활용하고 코딩하는데 있어 거리낌이 없으신 분
+• 병역특례 지원 가능
+- 산업기능요원, 전문연구요원 지원 가능하며, 이력서에 별도 표기하여 제출 부탁드립니다. (Ex: 산업기능요원 보충역 편입, 전문연구요원 현역 전직 등)","• Swift, Kotlin 개발 경험이 있으신 분
+• objdump 등을 이용하여 library 분석하고 debugging 경험이 많으신 분
+• 공동의 목표를 달성하기 위해 즐겁게 몰입하며 함께 성장할 수 있는 분
+• 상호 존중과 협력을 실천하며 원할한 협업을 통해 시너지를 창출할 수 있는 분
+• 주도적으로 역할을 확장하고, 전문 지식을 바탕으로 문제 해결에 앞장서는 분",[],https://jumpit.saramin.co.kr/position/43107
+LLM Researcher (경력 5년이하),서울 강남구,"• LLM post training을 위한 데이터 수집 및 정제
+• LLM Post train 방법론 연구 및 개발
+• LLM serving 환경 구축 및 실험
+• Generative AI 신규 기술 Research","• Python 등 프로그래밍 언어 경험
+• Tensorflow, PyTorch 등 Machine Learning Framework 활용 경험
+• LLM Post-training 및 관련 python 라이브러리 사용 경험 (transformers, peft, accelerate 등)
+• 다양한 협업 환경에서 일할 수 있는 능력
+• 훌륭한 의사 소통 능력","• 관련 분야(수학, 통계, 컴퓨터 공학 등) 석사 이상 전공자
+• LLM Post-training을 위한 데이터 수집, 정제, 및 데이터 구축 경험
+• Docker 수행 능력
+• CVPR, ICCV, ECCV, NeurIPS, AAAI, IEEE, EMNLP 등 저널/학회 논문 저자 또는 참여",[],https://jumpit.saramin.co.kr/position/42012
+Document AI Researcher (경력 3년이하),서울 강남구,"• 비구조 데이터 문서 처리 솔루션 내 신규 모델 개발
+• OCR 및 CV, NLP 등 기 개발 모델 유지 보수 및 고도화
+• Document AI 관련 신규 기술 research","• Python 등 프로그래밍 언어 경험
+• Tensorflow, PyTorch 등 Machine Learning Framework 활용 경험
+• CV, NLP 등 Document AI 관련 모델 개발 경험
+• 다양한 협업 환경에서 일할 수 있는 능력
+• 훌륭한 의사 소통 능력","• 관련 분야(수학, 통계, 컴퓨터 공학 등) 석사 이상 전공자
+• Document AI를 위한 데이터 수집, 정제, 및 데이터 구축 경험
+• CVPR, ICCV, ECCV, NeurIPS, AAAI, IEEE, EMNLP 등 저널/학회 논문 저자 또는 참여",[],https://jumpit.saramin.co.kr/position/39667
+코덱 SW 엔지니어 (알고리즘 개발/신입),서울 강남구,"• 영상처리, 동영상 압축 등 멀티미디어 처리 기술개발","• 전자, 컴퓨터공학 학사 이상
+• C/C++ 능숙
+• 비디오 압축 혹은 영상 처리에 관심이 있으신 분","• 비디오 압축 혹은 영상 처리 관련 연구 수행 및 프로젝트 경험자
+• 리눅스 환경에서 개발 가능",[],https://jumpit.saramin.co.kr/position/42503
+임베디드 AI 개발자 (C++),서울 강서구,"Embedded AI SW 기술 개발: 
+• Embedded AI application 개발 및 최적화
+• Algorithm 최적화 및 SIMD 최적화
+• Embedded(SoC) 및 RTOS 환경에서 모델 배포 프로세스 개발",• 관련 분야 학사 학위 혹은 2년 이상 경력 보유,"• 관련 분야 논문 보유자 (국제 학회 또는 SCI/SCIE 저널)  
+• 특정 하드웨어 가속기(e.g., GPUs, TPUs, FPGAs)에 대한 DL/ML 최적화 경험
+• Embedded 및 RTOS환경 구축 및 개발 경험
+• C++(Modern C++ 포함) 개발 역량
+• Agile 또는 ASPICE 프로젝트 경험",[],https://jumpit.saramin.co.kr/position/42804
+Vision AI Application Engineer,서울 강서구,"Vision AI application을 위한 Deep Learning 모델 개발 및 최적화: 
+• Object Detection, Segmentation, Human Pose Estimation 기술 개발
+• 학습 DB 설계 및 학습 최적화",• 관련 분야 석사 학위 혹은 2년 이상 경력 보유,"• 관련 분야 논문 보유자 (국제 학회 또는 SCI/SCIE 저널)  
+• 영상처리 개발 역량
+• ML(예: SVM, Random Forest) 개발 역량
+• 영어회화 가능
+• AI 개발 전주기 경험자",[],https://jumpit.saramin.co.kr/position/42800
+임베디드 AI 개발자 (병역특례),서울 강서구,"Embedded AI SW 기술 개발: 
+• Embedded AI application 개발 및 최적화
+• Algorithm 최적화 및 SIMD 최적화
+• Embedded(SoC) 및 RTOS 환경에서 모델 배포 프로세스 개발",• 관련 분야 학사 학위 혹은 2년 이상 경력 보유,"• 관련 분야 논문 보유자 (국제 학회 또는 SCI/SCIE 저널)  
+• 특정 하드웨어 가속기(e.g., GPUs, TPUs, FPGAs)에 대한 DL/ML 최적화 경험
+• Embedded 및 RTOS환경 구축 및 개발 경험
+• C++(Modern C++ 포함) 개발 역량
+• Agile 또는 ASPICE 프로젝트 경험",[],https://jumpit.saramin.co.kr/position/42805
+코덱SW엔지니어 (화질분석/신입),서울 강남구,"• 영상처리, 동영상 압축 알고리즘 및 성능 분석","• 전자, 컴퓨터공학 학사 이상
+• C, Python 프로그래밍 능력
+• 비디오 압축 혹은 영상 처리에 관심이 있으신 분
+
+자격 요건 중에 한 두가지 부족하지만, 노력으로 충분히 캐치업할 수 있는 자신이 있다면 망설이지 말고 지원해주세요!","• 비디오 압축 혹은 영상 처리 관련 연구 수행 및 프로젝트 경험자
+• 리눅스 환경에서 개발 가능",[],https://jumpit.saramin.co.kr/position/42501
+Model Compression Research (병역특례),서울 강서구,"Model Compression 기술 개발: 
+• Neural Architecture Search (NAS) 
+• Quantization Aware Training (QAT) & Post Training Quantization (PTQ) 
+• Knowledge Distillation (KD)","• 관련 분야 석사 학위 혹은 2년 이상 경력 보유 
+• TensorFlow, PyTorch 등 주요 DL 프레임워크 활용 경험 
+• 영어 회화 가능 (외국인과 업무 소통 가능) 
+• 팀과 협업 및 원활한 커뮤니케이션 보유 
+• 독립적인 리서치 프로젝트 수행 능력 
+• 최신 논문 이해 및 모델 적용 능력","• 관련 분야 논문 보유자 (국제 학회 또는 SCI/SCIE 저널)  
+• 특정 하드웨어 가속기(e.g., GPUs, TPUs, FPGAs)에서 DL/ML 최적화 경험  
+• 경량화를 위한 모델 서빙 프레임워크(e.g., TensorFlow Serving, ONNX Runtime)에서 개발 경험",[],https://jumpit.saramin.co.kr/position/42803
+Model Compression Research Engineer,서울 강서구,"Model Compression 기술 개발: 
+• Neural Architecture Search (NAS) 
+• Quantization Aware Training (QAT) & Post Training Quantization (PTQ) 
+• Knowledge Distillation (KD)","• 관련 분야 석사 학위 혹은 2년 이상 경력 보유 
+• TensorFlow, PyTorch 등 주요 DL 프레임워크 활용 경험 
+• 영어 회화 가능 (외국인과 업무 소통 가능) 
+• 팀과 협업 및 원활한 커뮤니케이션 보유 
+• 독립적인 리서치 프로젝트 수행 능력 
+• 최신 논문 이해 및 모델 적용 능력","• 관련 분야 논문 보유자 (국제 학회 또는 SCI/SCIE 저널)  
+• 특정 하드웨어 가속기(e.g., GPUs, TPUs, FPGAs)에서 DL/ML 최적화 경험  
+• 경량화를 위한 모델 서빙 프레임워크(e.g., TensorFlow Serving, ONNX Runtime)에서 개발 경험",[],https://jumpit.saramin.co.kr/position/42802
+LLM Research Engineer,서울 강서구,"LLM 개발 및 최적화: 
+• Domain-specific LLM 및 sLLM 개발 
+• LLM 경량화(예: Pruning, Quantization, Distillation) 개발
+• LLM 추론 엔진(예: llama.cpp, TensorRT-LLM, MLC-LLM) 개발",• 관련 분야 석사 학위 혹은 2년 이상 경력 보유,"• LLM 관련 분야 논문 보유자 (국제 학회 또는 SCI/SCIE 저널)  
+• LLM 모델 적용 제품 개발 경험 보유자",[],https://jumpit.saramin.co.kr/position/42798
+실내 내비게이션 연구/개발(전문연구요원가능),"대구 동구, 경기 안양시","• 내비게이션 서비스 측위 기술 연구/개발
+• 센서 기반 측위 기술 연구/개발
+• GPS 및 AIoT기반 측위 기술 연구/개발
+• 라이다, 카메라, BLE 등의 인식 센서 기반 측위 기술 연구/개발
+• 융합형 필터 / 머신러닝 측위 기술 연구/개발","• 컴퓨터공학, 전자공학, 기계공학, 물리학, 통계학 관련 전공
+• 센서 및 GPS 신호 분석, 응용 알고리즘 개발
+• Embedded SW개발(C / C++)
+• 데이터 분석(Matlab 또는 Python)
+• C++ 및 Python 프로그래밍 능력
+• Linux 상 프로그램 개발 능력
+• ROS에 대한 이해","• 측위기술 과제 경험, Embedded 시스템 구현 경험
+• 머신러닝기반 알고리즘 개발 경험
+• 자율주행 시스템의 전반적인 구조에 대한 이해
+• SLAM, Kalman filter, 차량 동력학(Vehicle dynamics)에 대한 이해
+• 실제 인식 센서 활용 경험
+• 근무지(경기/대구) 선택 가능
+ - 경기도 안양시 동안구 엘에스로116번길 118 안양2차 SKV1 926호
+ - 대구광역시 동구 동대구로 465, 대구스케일업허브",[],https://jumpit.saramin.co.kr/position/43202
+Vision AI Application Engineer(병역특례),서울 강서구,"Vision AI application을 위한 Deep Learning 모델 개발 및 최적화: 
+• Object Detection, Segmentation, Human Pose Estimation 기술 개발
+• 학습 DB 설계 및 학습 최적화",• 관련 분야 석사 학위 혹은 2년 이상 경력 보유,"• 관련 분야 논문 보유자 (국제 학회 또는 SCI/SCIE 저널)  
+• 영상처리 개발 역량
+• ML(예: SVM, Random Forest) 개발 역량
+• 영어회화 가능
+• AI 개발 전주기 경험자",[],https://jumpit.saramin.co.kr/position/42801
+LLM Research Engineer (병역특례),서울 강서구,"LLM 개발 및 최적화: 
+• Domain-specific LLM 및 sLLM 개발 
+• LLM 경량화(예: Pruning, Quantization, Distillation) 개발
+• LLM 추론 엔진(예: llama.cpp, TensorRT-LLM, MLC-LLM) 개발",• 관련 분야 석사 학위 혹은 2년 이상 경력 보유,"• LLM 관련 분야 논문 보유자 (국제 학회 또는 SCI/SCIE 저널)  
+• LLM 모델 적용 제품 개발 경험 보유자",[],https://jumpit.saramin.co.kr/position/42799
+언어모델 딥러닝 개발자 (신입),서울 강남구,"• 최신의 딥러닝 학습 모델 연구
+• sLLM 학습 및 최적화
+• sLLM 학습 데이터 수집 및 전처리","• 인공지능 및 머신러닝 연구에 관심있는 분
+• Python, Pytorch, Tensorflow 사용 가능","• 컴퓨터 공학 학사 또는 이상의 학위
+• 딥러닝 관련 연구실 출신 우대
+• IT 직종 경력자 우대",[],https://jumpit.saramin.co.kr/position/41946
+ML 엔지니어/Researcher 채용,서울 강남구,"• Computer Vision 알고리즘 개발
+　- 다양한 형태의 데이터 처리 (Radar, Smartphone Image, CCTV Image, Industrial Image 등)
+　- Vision 관련 task 수행 (super resolution, detection, inpainting, low lighting 등)
+• 딥러닝 모델 경량화 알고리즘 개발
+　- 주어진 Task 와 Constraint를 고려한 딥러닝 모델 설계 및 경량화 알고리즘 개발 (Quantization, NAS 등)
+　- Edge Device 탑재될 경량화된 모델 개발","• 대학교 졸업 이상
+• Python을 활용한 프로젝트 수행 경험이 있으신 분
+• 딥러닝 프레임워크(Pytorch, Keras, Tensorflow 등) 을 활용한 프로젝트 수행 경험이 있으신 분
+• 해외 여행에 결격 사유가 없으신 분
+• 병역특례 지원 가능
+- 산업기능요원, 전문연구요원 지원 가능하며, 이력서에 별도 표기하여 제출 부탁드립니다. (Ex: 산업기능요원 보충역 편입, 전문연구요원 현역 전직 등)","• 이미지 or 신호 처리, 딥러닝 모델 최적화(network compression, NAS) 경험이 있으신 분
+• Image enhancement 계열(super resolution, inpainting, low light imaging 등)의 task 경험이 있으신 분
+• 관련 학회 및 저널 게재 경력자
+• 관련 전공 석사, 박사 학위 보유자 (경력 인정)",[],https://jumpit.saramin.co.kr/position/43108
+AI 컴파일러 엔지니어 채용,서울 강남구,"• Edge device targeted AI compiler 개발
+• Virtual Machine 개발
+• 사내 자체 언어 개발
+　- Parser, Lexer 개발
+　- Type inference algorithm 구현
+• Intel AMX 지원을 위한 intrinsic 구현
+• 이 외 성능 최적화를 위한 각종 compiler technique 구현 및 연구
+• MLIR 사용
+• Optimizing ML/vision algorithm on DSP/NPU/AP
+　- Preprocessing procedure, deep learning kernel 및 각종 Vision 알고리즘을 DSP/NPU/AP 등에 최적화하여 지연 시간 및 사용 메모리를 최소화","• 대학교 졸업 이상
+• C/C++을 활용한 프로젝트 개발 경험이 있으신 분
+• (컴파일러 엔지니어) 함수형 언어(Scala, Haskell, F# 등) 사용 경험이 있으신 분
+• (컴파일러 엔지니어) 딥러닝 프레임워크(Pytorch, tensorflow 등) 사용 경험이 있으신 분
+• 병역특례 지원 가능
+- 산업기능요원, 전문연구요원 지원 가능하며, 이력서에 별도 표기하여 제출 부탁드립니다. (Ex: 산업기능요원 보충역 편입, 전문연구요원 현역 전직 등)","• 딥러닝 개념을 알고 동작 커널 개념을 알고 구현해보신 분
+• 딥러닝 프레임워크에서 operation에 대한 지식을 갖추신 분
+• 컴퓨터 아키텍쳐 관련 지식이 풍부하신 분
+• Compiler 혹은 Interpreter를 제작/연구해보신 경험이 있으신 분
+• 병렬 프로그래밍 경험이 있으신 분
+• 딥러닝 커널 최적화 관련 경험이 있으신 분
+• 딥러닝 모델 경량화 기법에 관한 지식이 있으신 분
+• 관련 학회 및 저널 게재 경력자
+• 관련 전공 석사, 박사 학위 보유자 (경력 인정)",[],https://jumpit.saramin.co.kr/position/43106
+Generative AI 및 인공지능 유지 관리 연구,서울 강남구,"• 생성 모델을 통해 물류/공장 자동화에서 필요한 학습 데이터 생성 및 모델 평가 수행
+• 당사 AI Platform 생성 모델 백엔드 연구 개발
+
+1. 물류 및 공장자동화 각 사이트에서 필요한 학습 데이터 생성 기법 연구 개발
+2. 배포된 AI 모델 성능 유지를 위한 평가 및 추가 학습 등을 위한 데이터 생성 기법 연구 개발 
+3. 모델 학습 배포 유지관리 lifecycle 연구개발( AIops , Active learning, lifelong learning, etc ) 협업 
+4. 그 외, Stable Diffusion과 같은 생성형 모델을 목적에 맞게 연구 개발 및 서비스","• 경력 : 무관 
+• Machine Learning, Deep Learning, 생성모델(diffusion, GAN, VAE 등)에 대한 기본적인 지식을 보유하신 분
+• Diffusion, StyleGAN 등 생성형 모델을 다루어본 경험이 있는 분
+• 다양한 이미지 데이터를 다루어본 경험이 있는 분
+• Python , Tensorflow, Keras, PyTorch, Huggingface
+• 오픈소스의 코드 레벨 디버깅 및 커스터마이징 경험이 있는 분","• AI framework/Platform을 통한 실제 서비스 개발/실무 경험이 있는 분
+• Git을 활용한 코드 협업 경험이 있으신 분
+• 팀원 및 타 분야의 실무자와 원활한 커뮤니케이션 및 의사결정이 가능하신 분
+• Object detection, Segmentation 등 인지모델에 대한 관련 지식 혹은 업무 경험이 있는 분",[],https://jumpit.saramin.co.kr/position/43254
+Data 엔지니어 - Junior (대전 근무),대전 서구,"• 비정형 데이터 처리를 위한 pipeline 구축
+• 데이터 수집 및 관리
+• NLP 관련 modeling 업무 (NMT, NER 등)
+• 연구 과제 수행
+• 최신 논문에 대한 research","• 학사 이상 (컴퓨터공학, 수학, 물리, 통계 등 관련 공학계열)
+• NLP 관련 업무 경험이나 지식
+• Python, Linux, Docker, Pytorch, Tensorflow
+• NLP, LLM 등에 대한 최신 동향 이해
+• 준수한 협업 능력","• 석사 이상 (컴퓨터공학, 수학, 물리, 통계 등 관련 공학계열)
+• NLP 관련 모델 개발 경험
+• Generative AI 에 대한 연구 경험
+• 영어 회화 중급 수준 가능자",[],https://jumpit.saramin.co.kr/position/43600
+지식기반 AI 챗봇 주니어급 채용,서울 중구,"ㆍLLM 모델을 활용한 AI 서비스 개발 (Prompt Engineering /RAG)
 ㆍLLM 모델 활용을 통한 챗봇 서비스 개발
 ㆍ데이터 추출 업무
  - 각종 다양한 문서, 데이터베이스 등을 통한 데이터 추출
@@ -1334,71 +1414,8 @@ AI 최적화 Researcher 채용,서울 강남구,"• 에너자이의 추론 엔�
 
 [기타사항]
 ㆍ근무지: 서울시 중구 필동로1길 18, 2층
-ㆍ2024년 하반기 양재로 이전 예정",[],https://jumpit.saramin.co.kr/position/41474
-언어모델 딥러닝 개발자 (신입),서울 강남구,"• 최신의 딥러닝 학습 모델 연구
-• sLLM 학습 및 최적화
-• sLLM 학습 데이터 수집 및 전처리","• 인공지능 및 머신러닝 연구에 관심있는 분
-• Python, Pytorch, Tensorflow 사용 가능","• 컴퓨터 공학 학사 또는 이상의 학위
-• 딥러닝 관련 연구실 출신 우대
-• IT 직종 경력자 우대",[],https://jumpit.saramin.co.kr/position/41946
-AI 컴파일러 엔지니어 채용,서울 강남구,"• Edge device targeted AI compiler 개발
-• Virtual Machine 개발
-• 사내 자체 언어 개발
-　- Parser, Lexer 개발
-　- Type inference algorithm 구현
-• Intel AMX 지원을 위한 intrinsic 구현
-• 이 외 성능 최적화를 위한 각종 compiler technique 구현 및 연구
-• MLIR 사용
-• Optimizing ML/vision algorithm on DSP/NPU/AP
-　- Preprocessing procedure, deep learning kernel 및 각종 Vision 알고리즘을 DSP/NPU/AP 등에 최적화하여 지연 시간 및 사용 메모리를 최소화","• 대학교 졸업 이상
-• C/C++을 활용한 프로젝트 개발 경험이 있으신 분
-• (컴파일러 엔지니어) 함수형 언어(Scala, Haskell, F# 등) 사용 경험이 있으신 분
-• (컴파일러 엔지니어) 딥러닝 프레임워크(Pytorch, tensorflow 등) 사용 경험이 있으신 분
-• 병역특례 지원 가능
-- 산업기능요원, 전문연구요원 지원 가능하며, 이력서에 별도 표기하여 제출 부탁드립니다. (Ex: 산업기능요원 보충역 편입, 전문연구요원 현역 전직 등)","• 딥러닝 개념을 알고 동작 커널 개념을 알고 구현해보신 분
-• 딥러닝 프레임워크에서 operation에 대한 지식을 갖추신 분
-• 컴퓨터 아키텍쳐 관련 지식이 풍부하신 분
-• Compiler 혹은 Interpreter를 제작/연구해보신 경험이 있으신 분
-• 병렬 프로그래밍 경험이 있으신 분
-• 딥러닝 커널 최적화 관련 경험이 있으신 분
-• 딥러닝 모델 경량화 기법에 관한 지식이 있으신 분
-• 관련 학회 및 저널 게재 경력자
-• 관련 전공 석사, 박사 학위 보유자 (경력 인정)",[],https://jumpit.saramin.co.kr/position/43106
-Data Scientist / AI 엔니지어 신입 채용,서울 중구,"※ 이하 태스크중에 지원자 특성에 적합한 업무를 수행하게 됩니다.
-
-1) Vision
- • 의료데이터 기반 진단 모델 개발
- • 위성 이미지 기반 탐지 모델 개발
-
-2) NLP-LLM
- • LLM 모델 학습/튜닝
- • 대화형 LLM 엔진 개발
- • LLM 아키텍처 연구
- • LLM 평가 도구 연구
-
-3) 경진대회 운영
- • 경진대회 문제/데이터셋 개발
- • 경진대회 결과 평가 시스템 개발
-
-4) AI Application
- • AI 모델 상용 서비스 개발
- • MLOps / 모델 관리 시스템 개발
- • AI 개발 컨설팅","1) 언어: 한국 국적자 또는 한국어를 Native 수준으로 구사할 수 있는 분
-
-2) 학력:
- a) 전공자: 컴공/데이터과학/통계학/수학 또는 관련 응용학과(물리학 등) 전공(학부 또는 석사)
- b) 비전공자의 경우 관련 학습 + 직무 경력 최소 3년 이상에 해당되는 분
-
-3) Skill: 
- a) Python 기반 ML/DL Programming 가능한 분
- b) Vision / NLP-LLM / 수치해석 / 고급통계 가운데 최소 한 분야의 개발을 전문적으로 수행할 수 있는 자
-
-4) 수습 3개월","1) O/S, H/W에 대한 이해 및 경험이 많은 분
-2) 책임감 있고 문제해결능력이 뛰어난 분
-3) 위 주요 업무에 해당되는 경험/경력이 있는 분 
-4) AI 영역에서 Academic Research Interest가 뚜렷한 분
-5) AIFactory에서 운영하는 경진대회 입상자 또는 참여(제출필수) 경험이 많은 분",[],https://jumpit.saramin.co.kr/position/42388
-딥러닝 음성인식 개발자 주니어급 채용,경기 성남시,"ㆍSTT/TTS 딥러닝 모델 연구 및 개발
+ㆍ2024년 하반기 양재로 이전 예정",[],https://jumpit.saramin.co.kr/position/43661
+딥러닝 음성인식 개발자 주니어급 채용,서울 중구,"ㆍSTT/TTS 딥러닝 모델 연구 및 개발
 ㆍSTT/TTS 분산 처리 시스템 개발","ㆍ신입~경력 5년 이하 / 학력 무관
 ㆍSTT/TTS 딥러닝 모델 개발을 해 보신 분
 ㆍPytorch 기반 딥러닝 코드를 작성 가능하신 분
@@ -1408,82 +1425,8 @@ Data Scientist / AI 엔니지어 신입 채용,서울 중구,"※ 이하 태스�
 ㆍ백엔드 개발 경력이 있으신 분
 ㆍRDBMS, NoSQL에 대한 이해도가 있으신 분
 ㆍ리눅스 서버에 대한 이해가 높으신 분
-ㆍAI 석사 학위 소유하신 분",[],https://jumpit.saramin.co.kr/position/41472
-Data Scientist / AI 엔니지어 경력 채용,서울 중구,"※ 이하 태스크중에 지원자 특성에 적합한 업무를 수행하게 됩니다.
-
-1) Vision
- - 의료데이터 기반 진단 모델 개발
- - 위성 이미지 기반 탐지 모델 개발
-
-2) NLP-LLM
- - LLM 모델 학습/튜닝
- - 대화형 LLM 엔진 개발
- - LLM 아키텍처 연구
- - LLM 평가 도구 연구
-
-3) 경진대회 운영
- - 경진대회 문제/데이터셋 개발
- - 경진대회 결과 평가 시스템 개발
-
-4) AI Application
- - AI 모델 상용 서비스 개발
- - MLOps / 모델 관리 시스템 개발
- - AI 개발 컨설팅","1) 언어: 한국 국적자 또는 한국어를 Native 수준으로 구사할 수 있는 분
-
-2) 학력:
- a) 전공자: 컴공/데이터과학/통계학/수학 또는 관련 응용학과(물리학 등) 전공(학부 또는 석사)
- b) 비전공자의 경우 관련 학습 + 직무 경력 최소 3년 이상에 해당되는 분
-
-3) Skill: 
- a) Python 기반 ML/DL Programming 가능한 분
- b) Vision / NLP-LLM / 수치해석 / 고급통계 가운데 최소 한 분야의 개발을 전문적으로 수행할 수 있는 자
-
-4) 수습 3개월","1) O/S, H/W에 대한 이해 및 경험이 많은 분
-2) 책임감 있고 문제해결능력이 뛰어난 분
-3) 위 주요 업무에 해당되는 경험/경력이 있는 분 
-4) AI 영역에서 Academic Research Interest가 뚜렷한 분
-5) AIFactory에서 운영하는 경진대회 입상자 또는 참여(제출필수) 경험이 많은 분",[],https://jumpit.saramin.co.kr/position/42389
-AI 모델(sLLM)개발자 주니어급 채용,경기 성남시,"ㆍ생성형 AI 챗봇의 핵심 모델(sLLM) 설계 및 최적화
-ㆍ대규모 언어 모델(LLM)의 파인튜닝 및 커스터마이징
-ㆍ프롬프트 엔지니어링(Prompt Engineering) 및 모델 성능 개선
-ㆍ사용자 맥락(Context)를 반영한 대화 모델 설계 및 테스트
-ㆍ멀티모달 데이터(텍스트, 이미지 등) 처리 기술 통합
-ㆍ지속적인 모델 모니터링 및 성능 평가, 업그레이드","ㆍ관련 경력 신입~3년 이상 또는 이에 준하는 실무 경험
-ㆍLLM 파인튜닝 및 배포 경험 우대
-ㆍ대규모 생성형 AI 모델 설계 및 운영 경험자 우대","ㆍPyTorch, LangChain, TensorFlow, Hugging Face Transformers 등 활용 능숙자
-ㆍ최신 LLM 트렌드(GPT, BLOOM, LLaMA 등)에 대한 이해
-ㆍ분산 훈련 및 클라우드 기반 모델 운영 경험
-ㆍAPI 설계 및 외부 서비스 연동 경험 우대
-ㆍ자연어 생성 모델의 윤리적 이슈 및 안전성 검토 경험자 우대",[],https://jumpit.saramin.co.kr/position/42519
-ML 엔지니어/Researcher 채용,서울 강남구,"• Computer Vision 알고리즘 개발
-　- 다양한 형태의 데이터 처리 (Radar, Smartphone Image, CCTV Image, Industrial Image 등)
-　- Vision 관련 task 수행 (super resolution, detection, inpainting, low lighting 등)
-• 딥러닝 모델 경량화 알고리즘 개발
-　- 주어진 Task 와 Constraint를 고려한 딥러닝 모델 설계 및 경량화 알고리즘 개발 (Quantization, NAS 등)
-　- Edge Device 탑재될 경량화된 모델 개발","• 대학교 졸업 이상
-• Python을 활용한 프로젝트 수행 경험이 있으신 분
-• 딥러닝 프레임워크(Pytorch, Keras, Tensorflow 등) 을 활용한 프로젝트 수행 경험이 있으신 분
-• 해외 여행에 결격 사유가 없으신 분
-• 병역특례 지원 가능
-- 산업기능요원, 전문연구요원 지원 가능하며, 이력서에 별도 표기하여 제출 부탁드립니다. (Ex: 산업기능요원 보충역 편입, 전문연구요원 현역 전직 등)","• 이미지 or 신호 처리, 딥러닝 모델 최적화(network compression, NAS) 경험이 있으신 분
-• Image enhancement 계열(super resolution, inpainting, low light imaging 등)의 task 경험이 있으신 분
-• 관련 학회 및 저널 게재 경력자
-• 관련 전공 석사, 박사 학위 보유자 (경력 인정)",[],https://jumpit.saramin.co.kr/position/43108
-AI(딥러닝) 연구 및 개발 채용,서울 성동구,"• 시계열 데이터를 이용한 예측 및 이상 감지
- - 질병 예측/진단, 구조물 이상 감지, 장비 예지 보전 등","• 나이/성별 : 무관
-• 신입 : AI 관련 학과 대학원 졸 이상
-• 경력 : 프로그래밍 관련 학과 대학교 졸업 및 AI 경력 1년 이상(대학원 AI 전공자의 경우 AI 경력 2년 인정)","• 컴퓨터/시스템 공학, 전기/전자공학, 수학/통계학 전공자
-• 통계 분석 능숙자, 컴퓨터 활용 능력 우수",[],https://jumpit.saramin.co.kr/position/43401
-"2D/3D Detection, Vision Inspection Engineer",서울 강남구,"• 물류 자동화 또는 생산 자동화를 위한 2D/3D 객체 인지
-• 2D/3D 데이터를 이용한 비전 검사
- 
- 1. 객체 검출을 위한 2D/3D Detection
- 2. 비전 검사를 위한 학습 기반의 불량 검출 기법 또는 Anomaly Detection","• Python/C++을 사용한 컴퓨터 비전 알고리즘 개발 경험자
-• Pytorch와 같은 프레임워크를 사용한 다양한 2D/3D Detection 모델 학습 및 개발 경험자","• Point Cloud 데이터를 사용하는 인공지능 모델 개발 및 알고리즘 개발 경험자
-• 3D Depth 센서 사용 경험 및 이를 활용한 개발 경험자
-• 멀티 카메라 또는 멀티 센서 캘리브레이션 개발 경험자
-• 비전 검사를 위한 알고리즘 개발 및 장비 운영 경험자",[],https://jumpit.saramin.co.kr/position/43253
-임베딩 모델 개발자 주니어급 채용,경기 성남시,"ㆍRAG(Retrieval-Augmented Generation) 기반 AI 시스템 구축 및 운영
+ㆍAI 석사 학위 소유하신 분",[],https://jumpit.saramin.co.kr/position/43658
+임베딩 모델 개발자 주니어급 채용,서울 중구,"ㆍRAG(Retrieval-Augmented Generation) 기반 AI 시스템 구축 및 운영
 ㆍ데이터 전처리 파이프라인 설계 및 구현
 ㆍ대규모 데이터셋 클리닝, 필터링, 라벨링 등 데이터 품질 관리
 ㆍ텍스트 데이터의 벡터 임베딩 및 임베딩 모델 설계, 훈련 및 튜닝
@@ -1494,42 +1437,28 @@ AI(딥러닝) 연구 및 개발 채용,서울 성동구,"• 시계열 데이터
 ㆍ대규모 데이터셋을 활용한 전처리 및 벡터화 프로젝트 경험 필수
 ㆍAI 및 NLP 기반 검색 시스템 설계 및 구축 경험자 우대","ㆍPython 및 관련 데이터 처리 라이브러리 숙련자
 ㆍ자연어 처리 라이브러리(Transformers, spaCy, Hugging Face 등) 경험자 우대
-ㆍ대규모 데이터 처리 경험자 우대",[],https://jumpit.saramin.co.kr/position/42506
-Generative AI 및 인공지능 유지 관리 연구,서울 강남구,"• 생성 모델을 통해 물류/공장 자동화에서 필요한 학습 데이터 생성 및 모델 평가 수행
-• 당사 AI Platform 생성 모델 백엔드 연구 개발
-
-1. 물류 및 공장자동화 각 사이트에서 필요한 학습 데이터 생성 기법 연구 개발
-2. 배포된 AI 모델 성능 유지를 위한 평가 및 추가 학습 등을 위한 데이터 생성 기법 연구 개발 
-3. 모델 학습 배포 유지관리 lifecycle 연구개발( AIops , Active learning, lifelong learning, etc ) 협업 
-4. 그 외, Stable Diffusion과 같은 생성형 모델을 목적에 맞게 연구 개발 및 서비스","• 경력 : 무관 
-• Machine Learning, Deep Learning, 생성모델(diffusion, GAN, VAE 등)에 대한 기본적인 지식을 보유하신 분
-• Diffusion, StyleGAN 등 생성형 모델을 다루어본 경험이 있는 분
-• 다양한 이미지 데이터를 다루어본 경험이 있는 분
-• Python , Tensorflow, Keras, PyTorch, Huggingface
-• 오픈소스의 코드 레벨 디버깅 및 커스터마이징 경험이 있는 분","• AI framework/Platform을 통한 실제 서비스 개발/실무 경험이 있는 분
-• Git을 활용한 코드 협업 경험이 있으신 분
-• 팀원 및 타 분야의 실무자와 원활한 커뮤니케이션 및 의사결정이 가능하신 분
-• Object detection, Segmentation 등 인지모델에 대한 관련 지식 혹은 업무 경험이 있는 분",[],https://jumpit.saramin.co.kr/position/43254
-Runtime 소프트웨어 엔지니어 채용,서울 강남구,"Proprietary AI compiler(Optima)의 runtime 개발
-• device communication interface 및 프로토콜 디자인/구현
- - ssh, adb, tcp/ip, packet 통신, RPC 통신 등
-• parallel programming
- - multithread programming
- - GPU
-• 다양한 디바이스 지원을 위한 binding 제작
- - vulkan, spir-V, XNNPack 등
-• 사용자 api 제작
-• 모델 실행 시 최적화 알고리즘 제작
- - memory planning, execution scheduling 등
-• 라이브러리 압축 / 보안을 위한 암호화","• C/C++, python을 활용한 프로젝트 개발 경험이 있으신 분
-• 동시성 프로그래밍 경험이 있으신 분
-• 다양한 device/OS(Android, iOS, linux, ARM64, x86_64 등)를 활용하고 코딩하는데 있어 거리낌이 없으신 분
-• 병역특례 지원 가능
-- 산업기능요원, 전문연구요원 지원 가능하며, 이력서에 별도 표기하여 제출 부탁드립니다. (Ex: 산업기능요원 보충역 편입, 전문연구요원 현역 전직 등)","• Swift, Kotlin 개발 경험이 있으신 분
-• objdump 등을 이용하여 library 분석하고 debugging 경험이 많으신 분
-• 공동의 목표를 달성하기 위해 즐겁게 몰입하며 함께 성장할 수 있는 분
-• 상호 존중과 협력을 실천하며 원할한 협업을 통해 시너지를 창출할 수 있는 분
-• 주도적으로 역할을 확장하고, 전문 지식을 바탕으로 문제 해결에 앞장서는 분",[],https://jumpit.saramin.co.kr/position/43107
+ㆍ대규모 데이터 처리 경험자 우대",[],https://jumpit.saramin.co.kr/position/43666
+AI 모델(sLLM)개발자 주니어급 채용,서울 중구,"ㆍ생성형 AI 챗봇의 핵심 모델(sLLM) 설계 및 최적화
+ㆍ대규모 언어 모델(LLM)의 파인튜닝 및 커스터마이징
+ㆍ프롬프트 엔지니어링(Prompt Engineering) 및 모델 성능 개선
+ㆍ사용자 맥락(Context)를 반영한 대화 모델 설계 및 테스트
+ㆍ멀티모달 데이터(텍스트, 이미지 등) 처리 기술 통합
+ㆍ지속적인 모델 모니터링 및 성능 평가, 업그레이드","ㆍ관련 경력 신입~3년 이상 또는 이에 준하는 실무 경험
+ㆍLLM 파인튜닝 및 배포 경험 우대
+ㆍ대규모 생성형 AI 모델 설계 및 운영 경험자 우대","ㆍPyTorch, LangChain, TensorFlow, Hugging Face Transformers 등 활용 능숙자
+ㆍ최신 LLM 트렌드(GPT, BLOOM, LLaMA 등)에 대한 이해
+ㆍ분산 훈련 및 클라우드 기반 모델 운영 경험
+ㆍAPI 설계 및 외부 서비스 연동 경험 우대
+ㆍ자연어 생성 모델의 윤리적 이슈 및 안전성 검토 경험자 우대",[],https://jumpit.saramin.co.kr/position/43669
+"2D/3D Detection, Vision Inspection Engineer",서울 강남구,"• 물류 자동화 또는 생산 자동화를 위한 2D/3D 객체 인지
+• 2D/3D 데이터를 이용한 비전 검사
+ 
+ 1. 객체 검출을 위한 2D/3D Detection
+ 2. 비전 검사를 위한 학습 기반의 불량 검출 기법 또는 Anomaly Detection","• Python/C++을 사용한 컴퓨터 비전 알고리즘 개발 경험자
+• Pytorch와 같은 프레임워크를 사용한 다양한 2D/3D Detection 모델 학습 및 개발 경험자","• Point Cloud 데이터를 사용하는 인공지능 모델 개발 및 알고리즘 개발 경험자
+• 3D Depth 센서 사용 경험 및 이를 활용한 개발 경험자
+• 멀티 카메라 또는 멀티 센서 캘리브레이션 개발 경험자
+• 비전 검사를 위한 알고리즘 개발 및 장비 운영 경험자",[],https://jumpit.saramin.co.kr/position/43253
 Data Scientist (경력 무관),서울 강남구,"• 기업의 비즈니스 최적화 문제 해결을 위한 AI/ML 모델 개발 수행
 • 데이터 분석 및 최적화 프로젝트를 통한 기업의 비즈니스 문제 해결 및 AI 컨설팅
 • sLLM을 활용한 AI 서비스 구축","• 컴퓨터 공학, 수학, 통계, 전자공학 등 AI 관련 전공자
@@ -1550,6 +1479,37 @@ Data Scientist (경력 무관),서울 강남구,"• 기업의 비즈니스 최�
 • Bacteria WGS, metagenome, transcriptome 등 multi-omic 분석에 능숙한 자","• 해외 Post Doc 경험자
 • ML/DL 분석 숙련
 • 임상 데이터 분석 경험",[],https://jumpit.saramin.co.kr/position/42887
+[AI연구소] AI연구원 - Computer Vision AI,서울 구로구,"• 컴퓨터 비전 관련 연구 및 모델 개발
+• 영상 처리 알고리즘 개발
+• 관련 학회 논문 제출 및 특허 작성","• AI 관련 분야 석사 학위 이상
+• Pytorch, Tensorflow등 주요 Deep Learning framework 활용 능력
+• Linux/Shell, docker/Container 활용 능력
+• 형상관리 툴 활용 능력
+• 의사 소통 능력","• 대규모 데이터 관리 및 전처리 경험
+• VLM(Vision Language Model) 개발 경험
+• 국제/국내 인공지능 대회 수상 이력
+• 주요 학술대회에 논문 게재 이력",[],https://jumpit.saramin.co.kr/position/43832
+[신입]영상처리/rPPG 연구개발 석박사,서울 서초구,"• rPPG(remote photoplethysmography) 기반의 생체정보(심박, 호흡, 산소포화도, 혈압 등)의 추출 알고리즘 개발
+• 알고리즘 내재화를 통한 정확도 향상을 위한 개선 연구 
+• Python, C++ 딥러닝 개발 능력 필수
+• Computer Vision(opencv), signal processing, GUI 기술 활용
+• 특허 및 논문 출판","• 학력 : 석사, 박사
+• 경력 : 신입","• 영어 가능자
+• 외부 세미나 발표 가능자
+• 커뮤니케이션이 원활한 자
+• 관련 분야 유경험자 및 연구 논문 스터디에 어려움이 없는자",[],https://jumpit.saramin.co.kr/position/43702
+AI 엔지니어 모집,서울 금천구,"• 패혈증 진단을 위해 생산된 이미지 데이터를 분석하여 환자에게 적합한 진단결과를 제공하기 위한 AI 모델 개발
+• 통계 (statistics) 및 시각화 (visualization) 기법을 이용하여 대량의 이미지로부터 실행가능한 인사이트 (actionable insight) 도출","• 관련 전공 분야의 학사 학위 이상( Computer Science, Computer Engineering, Data Science 등)
+• Machine Learning/Deep Learning 분야에 대한 경력 3년 이상
+• 프로그래밍 언어 (Python, R, C/C++) 중 한 개 이상에 대한 경력 3년이상
+• AI개발 프레임워크 (PyTorch, numpy)에 대한 높은 숙련도
+• 이미지 처리를 위한 딥러닝 모델 (CNN/RNN/Transformers/Object Detection)에 대한 경험
+• 데이터 사이언스 (Data Aggregation, Model Validation, Sampling, and Visualization)에 대한 경험
+• 문제의 본질에 대해 고민하고, 근본적인 해결책을 찾기 위해 끊임없이 노력하시는 분.
+• 상호 이해를 위한 합리적 의사소통 능력을 가지신 분
+• 직접 개발한 AI모델이 실제 환자에게 쓰여 도움이 되는 소중한 경험을 해보고 싶은 분","• AI Vision model 전공자 및 경력자
+• 미생물 및 생명공학에 관한 경험
+• 클라우드 컴퓨팅 및 MLOps에 관한 경험",[],https://jumpit.saramin.co.kr/position/43436
 컴퓨터 비전 딥러닝/머신러닝 (신입),경기 성남시,"* 컴퓨터 비전 딥러닝/머신러닝 개발자(ADAS/DMS/영상인식)
 
 • 딥러닝/머신러닝 모델 개발
@@ -1586,6 +1546,30 @@ Data Scientist (경력 무관),서울 강남구,"• 기업의 비즈니스 최�
 • Face Recognition, RCNN, SSD, Yolo 등 모델 학습 및 문제 해결 경험
 • 주어진 문제를 해결하기 위해 다양한 기술적 방법을 연구하는 적극적인 자세를 가지신 분
 • 영어 가능자",[],https://jumpit.saramin.co.kr/position/43065
+AI엔지니어 채용,서울 강남구,"• 생성형 AI 기반 비지니스 어시스턴트 에이전트 개발을 위한 AI 엔지니어링 업무
+• AI 모델 선정 튜닝 
+ → Azure OpenAI 및 Microsoft 365 Copilot을 활용하여 개인화된 비서 기능, 업무 자동화, 실시간 데이터 분석이 가능한 AI모델 선정, 튜닝 및 프롬프트 엔지니어링, 작업
+• 데이터 수집 및 전 처리
+ → AI 모델 학습에 필요한 데이터를 수집, 정제, 전 처리하여 최적의 성능을 보장
+• 모델 학습 및 최적화
+ → 데이터를 활용해 AI 모델을 학습시키고 성능을 지속적으로 모니터링하며 최적화
+• 모델 배포 및 운영 관리
+ → AI 모델을 안정적으로 배포하고, 운영 중 발생하는 문제를 해결하며 지속적인 개선 작업","• 학력 및 경력
+ → 컴퓨터 공학, 데이터 과학, 인공지능 등 관련 분야의 학사 학위 이상
+ → AI 모델 개발 관련 3년 이상의 경력자
+• 프로그래밍 언어: 
+ → Python 등 AI 모델 및 데이터 처리에 필요한 언어에 능숙하신 분
+• 클라우드 및 온 프레미스 경험자: 
+ → Azure 환경에서의 AI 모델 개발 및 배포 경험, 온프레미스 LLM 구축, 파인튜닝 RAG 적용 경험자
+• 데이터 분석 능력자:
+ → 대규모 데이터셋을 다루고, 분석해 인사이트를 도출한 경험자","• Microsoft 365 Copilot 및 Teams 경험자 (Microsoft 생태계를 활용한 AI 개발경험)
+• LLMOps 경험자 (LangChain 등 LLMOps 도구를 사용해 AI 모델을 관리하고 최적화한 경험)
+• 업무 자동화 경험자 (RPA 도구를 활용해 업무 프로세스를 자동화한 경험)
+• Azure AI & Data 관련 자격증 보유자",[],https://jumpit.saramin.co.kr/position/43855
+알고리즘 개발자 신입 채용,인천 계양구,"• 기간계 시스템 개발 및 유지보수 
+• ERP(더존 IU) 유지보수 운영","• 응용프로그래밍 분야 경력
+• 응용프로그램개발 (C#, MSSQL) 개발 경험 필수","• 시스템 유지보수 경험자 우대
+• ERP(더존 IU) 운영 경험자 우대",[],https://jumpit.saramin.co.kr/position/42123
 알고리즘 개발_UE파트 연구원~책임급 채용,서울 강서구,"• 시스템 스펙 개발 Assist 
 • 시스템 스펙 기반 의료 초음파 시스템 빔포밍 
 • 신호처리 알고리즘 개발·개선을 통한 초음파 영상 질 향상 
@@ -1599,7 +1583,3 @@ Data Scientist (경력 무관),서울 강남구,"• 기업의 비즈니스 최�
  - 분석 능력(Analytical Skills)","• 박사 이상 
 • 의료초음파 전공(타 전공이어도 관심 있는 자 우대) 
 • 초음파 의료기 개발, 신호처리 분야 경력",[],https://jumpit.saramin.co.kr/position/43337
-알고리즘 개발자 신입 채용,인천 계양구,"• 기간계 시스템 개발 및 유지보수 
-• ERP(더존 IU) 유지보수 운영","• 응용프로그래밍 분야 경력
-• 응용프로그램개발 (C#, MSSQL) 개발 경험 필수","• 시스템 유지보수 경험자 우대
-• ERP(더존 IU) 운영 경험자 우대",[],https://jumpit.saramin.co.kr/position/42123

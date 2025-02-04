@@ -1,4 +1,110 @@
-﻿title,location,Main_task,qualifications,Preferred_Qualifications,skils,url
+﻿title,location,Main_task,qualifications,Preferred_Qualifications,skills,url
+[신입] 머신러닝 엔지니어 (LLM),서울 서초구,"• 데이터를 분석하고 풀어야 할 문제를 정의합니다.
+• 동료들과 더 나은 LLM 기술에 대해 논의하고 연구합니다.
+• LLM 기반으로한 서비스를 개발하고 적용합니다.
+• RAG, Fine tuning 등을 이용해 LLM 모델의 성능을 향상 시킵니다.
+• LLM 실적용 성공 사례를 지속적으로 늘려나가고 전체 수행 과정 효율을 개선할 수 있는 체계를 함께 고민하여 반영합니다.","• LLM(Fine tuning 포함) 또는 NLP 모델의 학습 경험이 있는 분
+• LLM 또는 NLP 관련 논문 작성 경험이 있는 분
+• Python을 활용한 프로그래밍에 능숙한 분
+• 다양한 라이브러리와 프레임워크를 활용한 문제 해결 경험이 있는 분","• 다양한 분야의 데이터를 다룬 경험이 있는 분
+• AI Agent 활용 경험이 있거나 이해가 높은 분
+• 코드리뷰를 주고 받으며 협업한 경험이 있는 분",[],https://www.wanted.co.kr/wd/264181
+[카카오계열사]Prompt Engineer,서울 강남구,"• LLM 프롬프트 최적화 및 엔지니어링: 다양한 LLM(GPT, Claude, Gemini 등)을 활용하여 최적의 프롬프트를 설계하고 성능을 개선
+• LLM 기반 서비스 개발 및 고도화: RAG(Retrieval-Augmented Generation), Fine-tuning 등을 활용하여 AI 서비스를 개발 및 최적화
+• 신규 AI 서비스 기획 및 개발: LLM을 활용한 서비스 및 비즈니스 기회 발굴
+• AI 자동화 및 서비스 개선: LLM을 활용하여 자동화 및 AI 기반 서비스의 효율성 극대화","• 해외여행 결격사유가 없는 분
+• LLM 및 NLP 실무 경험: LLM 또는 자연어 처리(NLP)를 활용한 서비스 개발 및 실제 적용 경험
+• 프롬프트 엔지니어링 및 LLM 구조 이해: 대화형 LLM 모델의 아키텍처 및 최적화에 대한 이해와 실무 경험
+• Python 및 API 활용 능력: Python과 REST API 등을 이용한 LLM 연동 및 서비스 개발 경험","ML 기반 서비스 개발 또는 백엔드 개발 경험
+• ML 기반 서비스 개발 경험: 머신러닝 또는 LLM 기반 서비스를 기획, 개발, 운영한 경험
+• 백엔드 개발 경험: AI 모델 서빙 및 API 설계를 포함한 백엔드 시스템 개발 경험
+LLM 모델 최적화 및 응용 경험
+• LLM 기반 서비스의 전 과정 경험: 기획 구현 성능 평가 개선까지 진행한 경험
+• Fine-tuning 경험: BERT, LLAMA 등 오픈소스 LLM을 목적에 맞게 Fine-tuning하여 최적화한 경험
+• RAG 기반 서비스 개발 경험: RAG(Retrieval-Augmented Generation)를 활용한 정보 검색 및 생성 시스템 구축 경험
+멀티모달 및 에이전트 활용 경험
+• Agent 기반 AI 서비스 개발 경험: LangChain 등 프레임워크를 활용한 LLM 기반 Agent 개발 경험
+• 멀티모달 AI 모델 활용 경험: 텍스트/음성/이미지 데이터를 통합한 멀티모달 AI 모델 개발 경험
+클라우드 및 운영 경험
+• AWS 등 클라우드 환경 서비스 개발 경험","['Python', 'NLP']",https://www.wanted.co.kr/wd/264121
+Google Cloud Platform Solutions Engineer,서울 강남구,"• GCP 클라우드 아키텍처 설계 및 기술 컨설팅 수행
+• 고객사 클라우드 마이그레이션 전략 수립 및 기술 지원
+• Generative AI(생성형 AI) 솔루션 설계 및 구현 지원(Vertex AI, Gemini 등)
+• 제안서 작성, 기술 검증(PoC), 고객 프레젠테이션 수행
+• 고객 요구사항 분석 및 최적의 클라우드 솔루션 제안
+• GCP 신규 서비스 및 기술 동향 연구/전파
+
+* 경력 및 역량에 따라 업무 범위 상이","• 클라우드 환경에서의 프로젝트 경험 보유 (토이 프로젝트 포함)
+• Generative AI(생성형 AI) 서비스와 관련된 기본 지식
+• Python 개발 능력 보유
+• 원활한 커뮤니케이션 및 문서 작성 능력
+• 최신 기술 학습과 실무 적용에 적극적인 분","• Generative AI 프로젝트 경험자
+• AI/ML 프로젝트 수행 경험 또는 관련 지식 보유자
+• GCP 관련 자격증 보유 (Professiona lCloud Architect, Data Engineer, ML Engineer 등)
+• 영어 커뮤니케이션 가능자
+• 클라우드 플랫폼 설계/운영 경험 3년 이상자",[],https://www.wanted.co.kr/wd/263995
+코덱SW엔지니어 (화질분석/신입),서울 강남구,"[다음 업무를 통해 목표를 달성하고 성장합니다]
+• 영상처리, 동영상 압축 알고리즘 및 성능 분석","[이런분과 함께하고 싶어요]
+• 전자, 컴퓨터공학 학사 이상
+• C, Python 프로그래밍 능력
+• 비디오 압축 혹은 영상 처리에 관심이 있으신 분
+
+자격 요건 중에 한 두가지 부족하지만, 노력으로 충분히 캐치업할 수 있는 자신이 있다면 망설이지 말고 지원해주세요!","[이런분이라면 더욱 환영해요]
+• 비디오 압축 혹은 영상 처리 관련 연구 수행 및 프로젝트 경험자
+• 리눅스 환경에서 개발 가능","['Linux', 'Java', 'Python', 'C', 'C++']",https://www.wanted.co.kr/wd/174091
+코덱SW엔지니어 (알고리즘개발/신입),서울 강남구,"[이런분과 함께하고 싶어요]
+• 영상처리, 동영상 압축 등 멀티미디어 처리 기술개발","[이런분이라면 더욱 환영해요]
+• 전자, 컴퓨터공학 학사 이상
+• C/C++ 능숙
+• 비디오 압축 혹은 영상 처리에 관심이 있으신 분","[더 몰입하실 수 있도록 도와드려요]
+• 비디오 압축 혹은 영상 처리 관련 연구 수행 및 프로젝트 경험자
+• 리눅스 환경에서 개발 가능","['Linux', 'Java', 'Python', 'C', 'C++']",https://www.wanted.co.kr/wd/174088
+소프트웨어 엔지니어,서울 송파구,"[검색]
+• 엘라스틱 검색 시스템 구축 및 기술 지원
+• 검색 데이터 파이프라인 개발 및 유지보수
+• 검색 쿼리 개발 및 튜닝
+• 검색 데이터 분석 및 정제
+• RAG 시스템 구축
+• 벡터 데이터를 이용한 유사도 높은 의미 검색 결과 도출
+• 사용자 교육
+
+[옵저버빌리티]
+• 엘라스틱 관측 시스템 구축 및 기술 지원
+• 관측 대상 데이터 파이프라인 개발 및 유지보수
+• 수집 데이터 분석 및 정제
+• 데이터 시각화 대시보드 개발
+• 이상 탐지를 위한 Machine Learning Job 개발
+• 이상 탐지 Alert 개발 및 시스템 연동
+• 사용자 교육","[공통]
+• 다양한 데이터 분석 경험
+• 협업 및 문제 해결 능력
+
+[검색]
+• 검색 시스템 구축 및 운영 경험 (Elastic, 다이퀘스트, 코난, 와이즈넛 등)
+• 클라우드 환경(CSP, K8S, OC 등)구축 및 운영 경험
+
+[옵저버빌리티]
+• 관제 시스템 구축 및 운영 경험 (Elastic, DataDog, Prometheus 등)
+• 다양한 시각화 툴을 통한 대시보드 개발 경험 (Kibana, Tableau, Grafana 등)","[공통]
+• Elastic Stack 기술 경험 (Elasticsearch, Kibana, Logstash)
+• Kafka, Kubernetes 및 클라우드 구축 경험
+• 검색/보안/관제 솔루션 엔지니어링 경력
+• 대규모 데이터 파이프라인 구축 및 운영 경험
+• 검색 기능 연동을 위한 개발 경험(Java, Python)
+• 보안 관련 자격증 소지자
+• 머신러닝 기반 보안 분석 및 이벤트 탐지 경험","['Linux', 'ElasticSearch', 'Kubernetes']",https://www.wanted.co.kr/wd/263882
+Jr. ML Engineer(일반/전문연구요원),서울 강남구,"• CTR, CVR 예측 머신러닝 모델링 (counterfactual learning, online learning 등 포함)
+• Feature 엔지니어링 (LLM 등을 이용한 text feature 가공 포함)
+• 모델 경량화 및 서빙 최적화
+• ML 데이터 엔지니어링 전반","• 컴퓨터 공학, 수학, 통계학, 산업공학 등 머신러닝 유관 분야 석사 이상의 학위 소지자
+• 유관 분야 학사 이상의 학위 소지자이면서, 관련 분야에 논문을 발표한 경험이 있으신 분
+• 기초 통계, 전통적인 머신러닝, 딥러닝 이론들에 대해 탄탄한 지식을 보유하신 분
+• Python에 능숙하시고, Pytorch 또는 Tensorflow 중 하나 이상에 능숙하신 분
+
+• 현재는 리서치에 강점을 가진 분들을 우선하여 채용하고 있습니다. 지원에 참고해 주시면 감사하겠습니다.","• 머신러닝 유관 분야 박사 학위 소지자
+• WSDM, KDD, RecSys, ICDM 등 추천 시스템 분야 Top-tier conference 또는 저널 발표 실적을 보유하신 분
+• 실제 환경에서 모델 성능 개선을 통해 경영 지표를 개선해 본 경험이 있으신 분
+• AWS, Spark, Ray, FastAPI, Kubernetes 등 엔지니어링 관련 기술 스택을 보유하신 분","['Linux', 'Pytorch', 'Spark', 'Python', 'SQL', 'AWS', 'Kubernetes']",https://www.wanted.co.kr/wd/263752
 "딥러닝/머신러닝(AI) 개발자 [신입, 전문연구요원(보충역/전직) 가능",경기 성남시,"• 생체 신호 기반 딥러닝/머신러닝 모델 개발
 • 내부 토론식 세미나를 통해 문제점 및 해결방안 도출
 • 데이터 전처리, 통계 기반 데이터 분석","* 지원 시 포트폴리오 제출 필수 (연구 자료, 논문 자료 등)
@@ -11,7 +117,7 @@
 ** 해당 포지션은 전문연구요원 2025년 현역 신규편입은 불가합니다.","• 디지털 신호처리 알고리즘 개발 경험자
 • 통계학과, 응용수학과, 산업공학, 전자공학, 컴퓨터공학 등 관련 분야 전공자
 • 딥러닝 논문을 코드로 구현하고 실험/분석 역량 보유자
-• 의료, 보건 헬스케어 관련 기초 지식 보유 또는 관련 프로젝트 경험자","['Git', 'Android', 'iOS', 'MySQL', 'Pytorch', 'React', 'Tensorflow', 'HTML', 'Java', 'JavaScript', 'Kotlin', 'Python', 'Swift', '딥 러닝', 'AWS']",https://www.wanted.co.kr/wd/188191
+• 의료, 보건 헬스케어 관련 기초 지식 보유 또는 관련 프로젝트 경험자","['Git', 'Android', 'iOS', 'MySQL', 'Pytorch', 'React', 'Tensorflow', 'HTML', 'Java', 'JavaScript', 'Kotlin', 'Python', 'Swift', '딥 러닝', 'AWS', '신호 처리', '인공 지능', 'JPA', 'Spring Boot', 'ML']",https://www.wanted.co.kr/wd/188191
 AI Engineer (병특 전문연구요원가능),서울 종로구,"[기술스택]
 -Language - Python
 -Framework - Pytorch, Tensorflow, Keras, onnx, Langchain, Langgraph
@@ -235,35 +341,6 @@ AI, Robotics 관련 Top SCI급 저널 기고, 특허 보유하신 분",['Python'
 NPU RTL 설계 엔지니어 (전문연구요원/신입),서울 강남구,"• NPU Architecture 설계
 • NPU Core HW RTL Coding, Verification",• Verilog HDL 설계 경험,"• 딥러닝 알고리즘 이해
 • CPU Architecture, GPU Architecture 이해",['Verilog'],https://www.wanted.co.kr/wd/259898
-AI Engineer(LLM),서울 마포구,"• word embedding, text clustering 등 NLP 기술을 이용한 텍스트 데이터 전처리
-• text chunking , semantic matching 등을 활용한 문서 탐색 시스템 구조화
-• vector DB를 활용한 문석 검색 시스템 최적화
-• Retriever, Reader 등 유사 문서 검색 알고리즘 최적화
-• sLLM fine-tunning, ensemble 연구
-• prompt engineering
-
-전형 절차
-• 서류전형, 1차 전화 면접, 2차 대면 면접, 레퍼체크 및 처우 협의, 최종 합격","• 학력 : IT/공학 관련 석사 이상
-• 경력 : 무관, 신입 지원 가능
-
-• 기술
-- 고수준의 python 활용 능력 및 tensorflow, pytorch 활용 능력
-- Deep Learning (nlp, vision, audio, ...) 관련 프로젝트 경험이 있으신 분
-
-• 태도
-- 팀원간 명확한 의사소통 능력 (중요)
-- 기록과 정리 관련하여 중요성을 알고, 꾸준히 실천하실 분
-- 목표 달성을 위한 끈기와 높은 성과 의지
-- 빠른 학습 능력과 문제 해결 능력
-- AI 분야의 최신 동향에 관심이 많고 관련하여 지속적으로 학습, 성장이 가능하신 분
-- 프로젝트 진행을 위해, 적극적으로 여러 직군의 이해관계자와 협업할 수 있는 커뮤니케이션 능력을 갖추신 분
-- 스타트업의 초기 팀원으로 회사와 같이 성장해 나갈 열정이 넘치시는 분","- LLM 관련 프로젝트 경험
-- github, jira 시스템 사용 경험, 활용 능력
-- pandas, matplotlib 사용 경험, 활용 능력
-- 자연어처리, 컴퓨터 비전, 추천시스템 등 특정 분야의 AI 논문을 깊게 읽어본 경험
-- 웹서비스에 대한 이해
-- 팀단위 프로젝트에 참여하여 원활한 협업으로 프로젝트 완료에 기여한 경험
-- 프로젝트 리딩 경험","['Git', 'Github', 'Linux', 'MySQL', 'Pytorch', 'Tensorflow', 'Python', 'AWS', 'Go', 'Docker', 'Ubuntu', 'Notion', 'FastAPI']",https://www.wanted.co.kr/wd/219083
 [전문연구요원] Computer Vision Engineer,경기 수원시,"• Vision 관련 딥러닝 모델과 서비스의 운용을 위한 파이프라인 개발
 • 솔루션 형태의 다양한 Vision AI 제품 개발 및 관리
 • 카메라 하드웨어와 연동된 프로젝트 진행","• C++/C# Solution 개발 경험
@@ -625,38 +702,6 @@ AI Engineer,서울 강남구,"• Stable Diffusion 모델 기반의 이미지 �
 • 머신러닝을 인공지능, 데이터 마이닝을 활용해 실제 비즈니스 문제를 해결해 본 경험
 • AWS 활용 능력
 • Spark, Hadoop 활용한 분산처리 시스템 구축 경험",[],https://www.wanted.co.kr/wd/244779
-AI 엔지니어 (NLP),인천 미추홀구,"• 에세이 자동 채점 모델 성능 고도화 및 서비스화
-• 최신 AI 모델 및 논문 분석과 구현
-• GPU를 활용한 LLM 학습 및 Troubleshooting
-• 모델 최적화 및 지표 분석","• 모델 학습을 위한 학습 파이프라인 구축 경험
-• LLM모델에 대한 이해 및 관련 문제 해결 경험
-• Python 패키지 및 PyTorch 딥러닝 프레임워크에 대한 깊은 이해와 활용 능력
-• 최신 GitHub 오픈 소스 코드 활용 경험
-• 동료와의 원활한 협업 능력 및 커뮤니케이션 스킬
-• 해외여행 결격사유 없는자","• Automated Essay Scoring 모델 설계 및 성능 평가 경험
-• LLM(대규모 언어 모델)의 학습 및 튜닝 경험 (Pre-training, Fine-tuning, RLHF)
-• 최신 공개 모델 및 논문 분석 능력 및 구현 경험
-• 연구과제 및 프로젝트 수행 경험
-• 자연어 처리 또는 머신러닝 관련 연구 경험 및 논문 발표 경험
-• 대규모 언어 모델 개발 및 운영 경험
-• Pre-training, Fine-tuning, RLHF를 포함한 LLM 학습 알고리즘 개발
-• 분산처리를 통한 대규모 언어모델 학습 경험","['Git', 'Github', 'Linux', 'MySQL', 'Python', 'SQL', 'NLP', 'AWS', 'Docker', 'ML']",https://www.wanted.co.kr/wd/250399
-코덱SW엔지니어 (알고리즘개발/신입),서울 강남구,"[이런분과 함께하고 싶어요]
-• 영상처리, 동영상 압축 등 멀티미디어 처리 기술개발","[이런분이라면 더욱 환영해요]
-• 전자, 컴퓨터공학 학사 이상
-• C/C++ 능숙
-• 비디오 압축 혹은 영상 처리에 관심이 있으신 분","[더 몰입하실 수 있도록 도와드려요]
-• 비디오 압축 혹은 영상 처리 관련 연구 수행 및 프로젝트 경험자
-• 리눅스 환경에서 개발 가능","['Linux', 'Java', 'Python', 'C', 'C++']",https://www.wanted.co.kr/wd/174088
-코덱SW엔지니어 (화질분석/신입),서울 강남구,"[다음 업무를 통해 목표를 달성하고 성장합니다]
-• 영상처리, 동영상 압축 알고리즘 및 성능 분석","[이런분과 함께하고 싶어요]
-• 전자, 컴퓨터공학 학사 이상
-• C, Python 프로그래밍 능력
-• 비디오 압축 혹은 영상 처리에 관심이 있으신 분
-
-자격 요건 중에 한 두가지 부족하지만, 노력으로 충분히 캐치업할 수 있는 자신이 있다면 망설이지 말고 지원해주세요!","[이런분이라면 더욱 환영해요]
-• 비디오 압축 혹은 영상 처리 관련 연구 수행 및 프로젝트 경험자
-• 리눅스 환경에서 개발 가능","['Linux', 'Java', 'Python', 'C', 'C++']",https://www.wanted.co.kr/wd/174091
 [AI반도체] Deep Learning Optimization Engineer,서울 강남구,"- Quantization, Pruning 등 딥러닝 모델 경량화 연구 및 적용
 - HW 최적화를 고려한 딥러닝 모델 아키텍쳐 설계 및 학습
 - 딥러닝 최신 연구 동향 분석","- 딥러닝 프레임워크(PyTorch, TensorFlow 등) 활용 능력
